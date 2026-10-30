@@ -36,11 +36,13 @@ class CatalogTests(unittest.TestCase):
             self.assertTrue((ROOT / item["card"]).is_file(), item["id"])
             self.assertTrue(item["repo_url"].startswith("https://github.com/"), item["id"])
 
-    def test_cards_contain_cover_prompt(self):
+    def test_cards_contain_publishable_sections(self):
         for item in self.families:
             if not item["card"]:
                 continue
             text = (ROOT / item["card"]).read_text(encoding="utf-8")
+            self.assertIn("## Раздел", text, item["id"])
+            self.assertIn("## Описание", text, item["id"])
             self.assertIn("## Обложка", text, item["id"])
             self.assertIn("**Промпт для ChatGPT / Gemini:**", text, item["id"])
 
