@@ -1,17 +1,41 @@
 # Карточка 2 — Парсер сайта → CSV / Excel
 
 **Статус:** ready  
-**Репозиторий:** https://github.com/StesNiash/kwork-parser  
-**Цена:** от 1 500 ₽  
-**Срок:** 1–2 дня
+**Репозиторий:** https://github.com/StesNiash/kwork-parser
 
-## Название для Kwork
+## Название
 
 Парсер сайта → CSV / Excel
 
-## Раздел
+## Рубрика
 
-Скрипты и программирование
+Разработка и IT
+
+## Подрубрика
+
+Скрипты, боты и mini apps
+
+## Тип
+
+Парсеры
+
+## Вид
+
+Написание и доработка
+
+## Обложка (660×440, 3:2)
+
+**Текст на обложке:**
+
+- `ПАРСЕР САЙТА` — главный заголовок;
+- `В CSV И EXCEL` — подзаголовок;
+- `ЗА 1–2 ДНЯ` — небольшой бейдж.
+
+**Промпт для ChatGPT / Gemini:**
+
+> 3:2 Kwork cover, 660×440. Bold editorial tech poster. Huge Russian headline "ПАРСЕР САЙТА" in massive white sans-serif uppercase across the top 40%, split into two balanced lines if needed. Under it a bright cyan subheadline "В CSV И EXCEL" and a compact amber badge "ЗА 1–2 ДНЯ". Lower half: a stack of clean website product cards with selector brackets and a magnifier on the left, a subtle funnel in the middle, and a polished spreadsheet with rows plus small CSV/XLSX file icons on the right. Deep blue background, cyan and warm orange accents, soft glow, thin grid lines, professional vector-3D hybrid, high contrast, centered composition, generous margins, all text large and perfectly readable. Text must be exactly as specified, no other letters, no extra words, no logos, no watermarks, no real person, crisp details.
+
+**Формат:** 660×440, 3:2. Если модель искажает кириллицу — сгенерируйте фон без текста и наложите три строки в Canva/Figma.
 
 ## Описание
 
@@ -19,22 +43,49 @@
 
 Работаю по ссылкам или сохранённым HTML-страницам. На выходе — таблица, которую можно открыть в Excel, и короткая инструкция запуска. Не обхожу капчу, авторизацию и защиты; сайты с запретом на парсинг не беру. Срок — 1–2 дня, базовая цена — от 1 500 ₽.
 
-## Что входит
+## От покупателя нужно
+
+- ссылки на страницы или сохранённые HTML-файлы;
+- список нужных полей;
+- подтверждение, что парсинг источника разрешён;
+- пример желаемого CSV/XLSX.
+
+## Стоимость и опции
+
+### Объем услуг в 1 кворке
 
 - разбор одного сайта или раздела по согласованным полям;
 - до 5–7 полей: название, цена, ссылка, артикул и т.п.;
 - пагинация по переданным URL;
 - удаление дублей;
 - выгрузка в CSV и XLSX;
-- отчёт: сколько страниц обработано, сколько карточек найдено, сколько пропущено;
+- отчёт: страницы, найдено, дубли, пропущено;
 - инструкция запуска и ограничения.
 
-## Что нужно от покупателя
+### Стоимость одного кворка
 
-- ссылки на страницы или сохранённые HTML-файлы;
-- список нужных полей;
-- подтверждение, что парсинг источника разрешён;
-- пример желаемого CSV/XLSX.
+от 1 500 ₽
+
+### Срок выполнения
+
+1–2 дня
+
+## Дополнительные опции
+
+### Второй сайт
+
+- **Цена и срок:** 1 500 ₽ · 1–2 дня
+- **Подсказка для покупателя:** Добавлю ещё один источник с отдельными селекторами.
+
+### Регулярный запуск
+
+- **Цена и срок:** 2 000 ₽ · 1 день
+- **Подсказка для покупателя:** Настрою запуск по расписанию и логирование.
+
+### Выгрузка в Google Sheets
+
+- **Цена и срок:** 1 500 ₽ · 1 день
+- **Подсказка для покупателя:** Добавлю отправку строк в Google Sheets через webhook.
 
 ## Что не входит
 
@@ -45,30 +96,13 @@
 - Google Sheets, CRM и Telegram-уведомления;
 - поддержка произвольного числа сайтов в одной цене.
 
-## Допы
-
-- несколько сайтов или сложная структура — отдельная оценка;
-- регулярный запуск — отдельная задача;
-- выгрузка в Google Sheets — карточка 6 и отдельный репозиторий.
-
 ## FAQ
 
-**Вы можете спарсить любой сайт?** Нет. Сначала проверяем правила сайта и доступность данных.
+**Вопрос:** Вы можете спарсить любой сайт?  
+**Ответ:** Нет. Сначала проверяем правила сайта и доступность данных.
 
-**Сайт на JavaScript?** Базовый парсер не исполняет JS; нужен отдельный браузерный сценарий.
+**Вопрос:** Сайт на JavaScript?  
+**Ответ:** Базовый парсер не исполняет JS; нужен отдельный браузерный сценарий.
 
-**Данные придут в Excel?** Да, CSV и XLSX; для XLSX нужен `openpyxl` из `requirements.txt`.
-
-## Обложка
-
-**Текст на обложке (крупно, без изменений):**
-
-- `ПАРСЕР САЙТА` — главный заголовок;
-- `В CSV И EXCEL` — подзаголовок;
-- `ЗА 1–2 ДНЯ` — небольшой бейдж.
-
-**Промпт для ChatGPT / Gemini:**
-
-> 4:3 Kwork cover, bold editorial tech poster. Huge Russian headline "ПАРСЕР САЙТА" in massive white sans-serif uppercase across the top 40%, split into two balanced lines if needed. Under it a bright cyan subheadline "В CSV И EXCEL" and a compact amber badge "ЗА 1–2 ДНЯ". Lower half: a stack of clean website product cards with selector brackets and a magnifier on the left, a subtle funnel in the middle, and a polished spreadsheet with rows plus small CSV/XLSX file icons on the right. Deep blue background, cyan and warm orange accents, soft glow, thin grid lines, professional vector-3D hybrid, high contrast, centered composition, generous margins, all text large and perfectly readable. Text must be exactly as specified, no other letters, no extra words, no logos, no watermarks, no real person, crisp details.
-
-**Если модель искажает кириллицу:** сгенерируйте фон без текста по тому же промпту и наложите три строки в Canva/Figma.
+**Вопрос:** Данные придут в Excel?  
+**Ответ:** Да, CSV и XLSX; для XLSX нужен `openpyxl` из `requirements.txt`.

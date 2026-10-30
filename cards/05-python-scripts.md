@@ -1,17 +1,41 @@
 # Карточка 5 — Python-скрипт для рутины
 
 **Статус:** ready  
-**Репозиторий:** https://github.com/StesNiash/kwork-python-scripts  
-**Цена:** от 1 000 ₽  
-**Срок:** 1 день
+**Репозиторий:** https://github.com/StesNiash/kwork-python-scripts
 
-## Название для Kwork
+## Название
 
 Python-скрипт для обработки файлов и рутины
 
-## Раздел
+## Рубрика
 
-Скрипты и программирование
+Разработка и IT
+
+## Подрубрика
+
+Скрипты, боты и mini apps
+
+## Тип
+
+Скрипты
+
+## Вид
+
+Написание и доработка
+
+## Обложка (660×440, 3:2)
+
+**Текст на обложке:**
+
+- `PYTHON-АВТОМАТИЗАЦИЯ` — главный заголовок;
+- `ФАЙЛЫ · CSV · ОТЧЁТЫ` — подзаголовок;
+- `ОТ 1 000 ₽` — небольшой бейдж.
+
+**Промпт для ChatGPT / Gemini:**
+
+> 3:2 Kwork cover, 660×440. Bold editorial tech poster. Huge Russian headline "PYTHON-АВТОМАТИЗАЦИЯ" in massive white sans-serif uppercase across the top 40%, one strong line. Below it a bright emerald subheadline "ФАЙЛЫ · CSV · ОТЧЁТЫ" and a compact amber badge "ОТ 1 000 ₽". Lower half: a tidy folder with duplicate documents on the left flowing into a clean CSV report and a small terminal window on the right; subtle arrows show deduplication and renaming. Dark charcoal background, emerald green and warm amber accents, soft monitor glow, minimal geometric style, high contrast, centered composition, generous margins, all text large and perfectly readable. Text must be exactly as specified, no other letters, no extra words, no logos, no watermarks, no real person, crisp vector details.
+
+**Формат:** 660×440, 3:2. Если модель искажает кириллицу — сгенерируйте фон без текста и наложите три строки в Canva/Figma.
 
 ## Описание
 
@@ -19,27 +43,47 @@ Python-скрипт для обработки файлов и рутины
 
 Подойдёт для повторяющейся ручной работы, которую проще автоматизировать, чем делать каждый день. Дубли не удаляю, а складываю в отдельную папку; исходные данные остаются. Сложные интеграции и парсинг сайтов — отдельные задачи. Срок — 1 день, базовая цена — от 1 000 ₽.
 
-## Что входит
-
-- один небольшой скрипт или CLI под вашу задачу;
-- работа с файлами, папками или CSV на вашем компьютере;
-- dry-run: сначала показываю, что будет изменено;
-- запуск и проверка на тестовых данных;
-- короткая инструкция и список ограничений.
-
-## Примеры задач
-
-- найти и разложить дубли файлов;
-- переименовать набор файлов по шаблону;
-- почистить CSV и посчитать строки/дубли/пустые ячейки;
-- собрать простой отчёт из локальных файлов.
-
-## Что нужно от покупателя
+## От покупателя нужно
 
 - пример файлов или структуры папок;
 - правило, по которому нужно обрабатывать данные;
 - куда складывать результат;
 - версия ОС и Python, если есть ограничения.
+
+## Стоимость и опции
+
+### Объем услуг в 1 кворке
+
+- один небольшой скрипт или CLI под задачу;
+- работа с файлами, папками или CSV;
+- dry-run с планом изменений;
+- запуск и проверка на тестовых данных;
+- короткая инструкция и список ограничений.
+
+### Стоимость одного кворка
+
+от 1 000 ₽
+
+### Срок выполнения
+
+1 день
+
+## Дополнительные опции
+
+### Упаковка в .exe
+
+- **Цена и срок:** 1 000 ₽ · 1 день
+- **Подсказка для покупателя:** Соберу exe для запуска без установки Python.
+
+### Запуск по расписанию
+
+- **Цена и срок:** 1 000 ₽ · 1 день
+- **Подсказка для покупателя:** Настрою регулярный запуск скрипта по времени.
+
+### Второй скрипт
+
+- **Цена и срок:** 500 ₽ · 1 день
+- **Подсказка для покупателя:** Добавлю ещё одну небольшую утилиту в комплект.
 
 ## Что не входит
 
@@ -48,30 +92,13 @@ Python-скрипт для обработки файлов и рутины
 - бесконечная поддержка и доработки после сдачи;
 - работа с секретами и доступами клиента.
 
-## Допы
-
-- упаковка в `.exe` — отдельная задача;
-- запуск по расписанию — отдельная задача;
-- несколько скриптов в одном заказе — оценивается отдельно.
-
 ## FAQ
 
-**Вы удаляете файлы?** Нет. Дубли перемещаются в отдельную папку quarantine, исходники остаются.
+**Вопрос:** Вы удаляете файлы?  
+**Ответ:** Нет. Дубли перемещаются в отдельную папку quarantine, исходники остаются.
 
-**Можно без Python на компьютере?** Для запуска нужен Python; упаковка в exe обсуждается отдельно.
+**Вопрос:** Можно без Python на компьютере?  
+**Ответ:** Для запуска нужен Python; упаковка в exe обсуждается отдельно.
 
-**Подойдёт для Excel?** Для CSV — да. Для `.xlsx` нужна отдельная задача с библиотекой для Excel.
-
-## Обложка
-
-**Текст на обложке (крупно, без изменений):**
-
-- `PYTHON-АВТОМАТИЗАЦИЯ` — главный заголовок;
-- `ФАЙЛЫ · CSV · ОТЧЁТЫ` — подзаголовок;
-- `ОТ 1 000 ₽` — небольшой бейдж.
-
-**Промпт для ChatGPT / Gemini:**
-
-> 4:3 Kwork cover, bold editorial tech poster. Huge Russian headline "PYTHON-АВТОМАТИЗАЦИЯ" in massive white sans-serif uppercase across the top 40%, one strong line. Below it a bright emerald subheadline "ФАЙЛЫ · CSV · ОТЧЁТЫ" and a compact amber badge "ОТ 1 000 ₽". Lower half: a tidy folder with duplicate documents on the left flowing into a clean CSV report and a small terminal window on the right; subtle arrows show deduplication and renaming. Dark charcoal background, emerald green and warm amber accents, soft monitor glow, minimal geometric style, high contrast, centered composition, generous margins, all text large and perfectly readable. Text must be exactly as specified, no other letters, no extra words, no logos, no watermarks, no real person, crisp vector details.
-
-**Если модель искажает кириллицу:** сгенерируйте фон без текста по тому же промпту и наложите три строки в Canva/Figma.
+**Вопрос:** Подойдёт для Excel?  
+**Ответ:** Для CSV — да. Для `.xlsx` нужна отдельная задача с библиотекой для Excel.

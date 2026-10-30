@@ -37,14 +37,44 @@ class CatalogTests(unittest.TestCase):
             self.assertTrue(item["repo_url"].startswith("https://github.com/"), item["id"])
 
     def test_cards_contain_publishable_sections(self):
+        required = [
+            "## Название",
+            "## Рубрика",
+            "## Подрубрика",
+            "## Тип",
+            "## Вид",
+            "## Обложка (660×440, 3:2)",
+            "## Описание",
+            "## От покупателя нужно",
+            "## Стоимость и опции",
+            "### Объем услуг в 1 кворке",
+            "### Стоимость одного кворка",
+            "### Срок выполнения",
+            "## Дополнительные опции",
+            "## FAQ",
+            "**Промпт для ChatGPT / Gemini:**",
+        ]
         for item in self.families:
             if not item["card"]:
                 continue
             text = (ROOT / item["card"]).read_text(encoding="utf-8")
-            self.assertIn("## Раздел", text, item["id"])
-            self.assertIn("## Описание", text, item["id"])
-            self.assertIn("## Обложка", text, item["id"])
-            self.assertIn("**Промпт для ChatGPT / Gemini:**", text, item["id"])
+            for heading in required:
+                self.assertIn(heading, text, f"{item['id']}: {heading}")
+
+    def test_additional_options_fit_kwork_limits(self):
+        for item in self.families:
+            if not item["card"]:
+                continue
+            text = (ROOT / item["card"]).read_text(encoding="utf-8")
+            block = text.split("## Дополнительные опции", 1)[1].split("## Что не входит", 1)[0]
+            names = re.findall(r"^### (.+)$", block, re.M)
+            self.assertTrue(names, item["id"])
+            for name in names:
+                self.assertLessEqual(len(name), 40, f"{item['id']}: {name}")
+            hints = re.findall(r"\*\*Подсказка для покупателя:\*\* (.+)", block)
+            self.assertEqual(len(hints), len(names), item["id"])
+            for hint in hints:
+                self.assertLessEqual(len(hint), 100, f"{item['id']}: {hint}")
 
     def test_active_family_is_only_hermes(self):
         active = [item["id"] for item in self.families if item["status"] == "active"]

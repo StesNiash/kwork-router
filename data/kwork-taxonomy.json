@@ -1,0 +1,2794 @@
+[
+  {
+    "top": "SEO и трафик",
+    "url": "https://kwork.ru/categories/seo",
+    "subs": [
+      {
+        "name": "Ссылки",
+        "url": "https://kwork.ru/categories/links",
+        "types": [
+          {
+            "name": "Статейные и крауд",
+            "url": "https://kwork.ru/categories/links/stateynie-i-kraud",
+            "views": [
+              {
+                "name": "На собственных сайтах",
+                "url": "https://kwork.ru/categories/links/stateynie-i-kraud-na-sobstvennykh-saytakh"
+              },
+              {
+                "name": "Крауд-ссылки",
+                "url": "https://kwork.ru/categories/links/stateynie-i-kraud-kraud-ssylki"
+              }
+            ]
+          },
+          {
+            "name": "Форумные",
+            "url": "https://kwork.ru/categories/links/forumnie",
+            "views": []
+          },
+          {
+            "name": "Каталоги сайтов",
+            "url": "https://kwork.ru/categories/links/katalogi-saytov",
+            "views": []
+          },
+          {
+            "name": "В комментариях",
+            "url": "https://kwork.ru/categories/links/v-kommentariyakh",
+            "views": []
+          },
+          {
+            "name": "В соцсетях",
+            "url": "https://kwork.ru/categories/links/v-sotssetyakh",
+            "views": [
+              {
+                "name": "ВКонтакте",
+                "url": "https://kwork.ru/categories/links/v-sotssetyakh-vkontakte"
+              },
+              {
+                "name": "Pinterest",
+                "url": "https://kwork.ru/categories/links/v-sotssetyakh-pinterest"
+              },
+              {
+                "name": "Несколько соц. сетей",
+                "url": "https://kwork.ru/categories/links/v-sotssetyakh-neskolko-sots-setey"
+              },
+              {
+                "name": "Другие",
+                "url": "https://kwork.ru/categories/links/v-sotssetyakh-drugie"
+              }
+            ]
+          },
+          {
+            "name": "В профилях",
+            "url": "https://kwork.ru/categories/links/v-profilyakh",
+            "views": []
+          }
+        ]
+      },
+      {
+        "name": "Внутренняя оптимизация",
+        "url": "https://kwork.ru/categories/optimization",
+        "types": [
+          {
+            "name": "Полная оптимизация",
+            "url": "https://kwork.ru/categories/optimization/polnaya-optimizatsiya",
+            "views": []
+          },
+          {
+            "name": "Оптимизация страниц",
+            "url": "https://kwork.ru/categories/optimization/optimizatsiya-stranits",
+            "views": []
+          },
+          {
+            "name": "Robots и sitemap",
+            "url": "https://kwork.ru/categories/optimization/robots-i-sitemap",
+            "views": []
+          },
+          {
+            "name": "Теги",
+            "url": "https://kwork.ru/categories/optimization/tegi",
+            "views": []
+          },
+          {
+            "name": "Перелинковка",
+            "url": "https://kwork.ru/categories/optimization/perelinkovka",
+            "views": []
+          },
+          {
+            "name": "Микроразметка",
+            "url": "https://kwork.ru/categories/optimization/mikrorazmetka",
+            "views": []
+          }
+        ]
+      },
+      {
+        "name": "Семантическое ядро",
+        "url": "https://kwork.ru/categories/keywords",
+        "types": [
+          {
+            "name": "С нуля",
+            "url": "https://kwork.ru/categories/keywords/sbor-s-nulya",
+            "views": []
+          },
+          {
+            "name": "По сайту",
+            "url": "https://kwork.ru/categories/keywords/s-saytov-konkurentov",
+            "views": []
+          },
+          {
+            "name": "Готовое ядро",
+            "url": "https://kwork.ru/categories/keywords/gotovoe-yadro",
+            "views": []
+          }
+        ]
+      },
+      {
+        "name": "SEO аудиты, консультации",
+        "url": "https://kwork.ru/categories/audit",
+        "types": [
+          {
+            "name": "SEO аудит",
+            "url": "https://kwork.ru/categories/audit/seo-audit",
+            "views": []
+          },
+          {
+            "name": "Консультация",
+            "url": "https://kwork.ru/categories/audit/konsultatsiya",
+            "views": [
+              {
+                "name": "Консультации по SEO",
+                "url": "https://kwork.ru/categories/audit/konsultatsiya-konsultatsii-dlya-novichkov"
+              },
+              {
+                "name": "Решение проблем",
+                "url": "https://kwork.ru/categories/audit/konsultatsiya-reshenie-problem"
+              },
+              {
+                "name": "Стратегия продвижения",
+                "url": "https://kwork.ru/categories/audit/konsultatsiya-strategiya-prodvizheniya"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Трафик",
+        "url": "https://kwork.ru/categories/traffic",
+        "types": [
+          {
+            "name": "Посетители на сайт",
+            "url": "https://kwork.ru/categories/traffic/posetiteli-na-sayt",
+            "views": [
+              {
+                "name": "Реальные люди",
+                "url": "https://kwork.ru/categories/traffic/posetiteli-na-sayt-realnie-lyudi"
+              },
+              {
+                "name": "Боты",
+                "url": "https://kwork.ru/categories/traffic/posetiteli-na-sayt-boty"
+              },
+              {
+                "name": "Привлечение рефералов",
+                "url": "https://kwork.ru/categories/traffic/posetiteli-na-sayt-privlechenie-referalov"
+              }
+            ]
+          },
+          {
+            "name": "Поведенческие факторы",
+            "url": "https://kwork.ru/categories/traffic/povedencheskie-faktory",
+            "views": [
+              {
+                "name": "Реальные люди",
+                "url": "https://kwork.ru/categories/traffic/povedencheskie-faktory-realnie-lyudi"
+              },
+              {
+                "name": "Боты",
+                "url": "https://kwork.ru/categories/traffic/povedencheskie-faktory-boty"
+              },
+              {
+                "name": "Усиление ссылок",
+                "url": "https://kwork.ru/categories/traffic/povedencheskie-faktory-usilenie-ssylok"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Статистика и аналитика",
+        "url": "https://kwork.ru/categories/analytics",
+        "types": [
+          {
+            "name": "Метрики и счетчики",
+            "url": "https://kwork.ru/categories/analytics/metriki-i-schetchiki",
+            "views": []
+          },
+          {
+            "name": "Анализ сайтов, рынка",
+            "url": "https://kwork.ru/categories/analytics/marketingoviy-analiz",
+            "views": [
+              {
+                "name": "Анализ сайтов конкурентов",
+                "url": "https://kwork.ru/categories/analytics/marketingoviy-analiz-konkurentov"
+              },
+              {
+                "name": "Анализ сайта покупателя",
+                "url": "https://kwork.ru/categories/analytics/marketingoviy-analiz-sayta-pokupatelya"
+              },
+              {
+                "name": "Анализ рынка",
+                "url": "https://kwork.ru/categories/analytics/marketingoviy-analiz-analiz-rynka"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "top": "Разработка и IT",
+    "url": "https://kwork.ru/categories/programming",
+    "subs": [
+      {
+        "name": "Скрипты, боты и mini apps",
+        "url": "https://kwork.ru/categories/script-programming",
+        "types": [
+          {
+            "name": "Парсеры",
+            "url": "https://kwork.ru/categories/script-programming/parsery",
+            "views": [
+              {
+                "name": "Написание и доработка",
+                "url": "https://kwork.ru/categories/script-programming/parsery-napisanie-i-dorabotka"
+              },
+              {
+                "name": "Готовые",
+                "url": "https://kwork.ru/categories/script-programming/parsery-gotovie"
+              }
+            ]
+          },
+          {
+            "name": "Чат-боты",
+            "url": "https://kwork.ru/categories/script-programming/chat-boty",
+            "views": [
+              {
+                "name": "Написание и доработка",
+                "url": "https://kwork.ru/categories/script-programming/chat-boty-napisanie-i-dorabotka"
+              },
+              {
+                "name": "Готовые",
+                "url": "https://kwork.ru/categories/script-programming/chat-boty-gotovie"
+              }
+            ]
+          },
+          {
+            "name": "Скрипты",
+            "url": "https://kwork.ru/categories/script-programming/skripty",
+            "views": [
+              {
+                "name": "Написание и доработка",
+                "url": "https://kwork.ru/categories/script-programming/skripty-napisanie-i-dorabotka"
+              },
+              {
+                "name": "Готовые",
+                "url": "https://kwork.ru/categories/script-programming/skripty-gotovie"
+              }
+            ]
+          },
+          {
+            "name": "Telegram Mini Apps",
+            "url": "https://kwork.ru/categories/script-programming/telegram-mini-apps",
+            "views": [
+              {
+                "name": "Написание и доработка",
+                "url": "https://kwork.ru/categories/script-programming/telegram-mini-apps-napisanie-i-dorabotka"
+              },
+              {
+                "name": "Готовые",
+                "url": "https://kwork.ru/categories/script-programming/telegram-mini-apps-gotovie"
+              }
+            ]
+          },
+          {
+            "name": "ИИ-агенты",
+            "url": "https://kwork.ru/categories/script-programming/ii-agenty",
+            "views": []
+          },
+          {
+            "name": "ИИ-боты",
+            "url": "https://kwork.ru/categories/script-programming/ii-boty",
+            "views": []
+          },
+          {
+            "name": "Машинное обучение",
+            "url": "https://kwork.ru/categories/script-programming/mashinnoe-obuchenie",
+            "views": []
+          },
+          {
+            "name": "Интернет вещей (IoT)",
+            "url": "https://kwork.ru/categories/script-programming/internet-veshchey-iot",
+            "views": [
+              {
+                "name": "Программирование и прошивка",
+                "url": "https://kwork.ru/categories/script-programming/internet-veshchey-iot-programmirovanie-i-proshivka"
+              },
+              {
+                "name": "Схемотехника и дизайн плат",
+                "url": "https://kwork.ru/categories/script-programming/internet-veshchey-iot-skhemotekhnika-i-dizayn-plat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Доработка и настройка сайта",
+        "url": "https://kwork.ru/categories/website-repair",
+        "types": [
+          {
+            "name": "Доработка сайта",
+            "url": "https://kwork.ru/categories/website-repair/dorabotka-sayta",
+            "views": []
+          },
+          {
+            "name": "Настройка сайта",
+            "url": "https://kwork.ru/categories/website-repair/nastroyka-sayta",
+            "views": []
+          },
+          {
+            "name": "Защита и лечение сайта",
+            "url": "https://kwork.ru/categories/website-repair/zashchita-i-lechenie-sayta",
+            "views": [
+              {
+                "name": "Защита",
+                "url": "https://kwork.ru/categories/website-repair/zashchita-i-lechenie-sayta-zashchita"
+              },
+              {
+                "name": "Лечение",
+                "url": "https://kwork.ru/categories/website-repair/zashchita-i-lechenie-sayta-lechenie"
+              },
+              {
+                "name": "Восстановление доступа",
+                "url": "https://kwork.ru/categories/website-repair/zashchita-i-lechenie-sayta-vosstanovlenie-dostupa"
+              },
+              {
+                "name": "Установка SSL",
+                "url": "https://kwork.ru/categories/website-repair/zashchita-i-lechenie-sayta-ustanovka-ssl"
+              }
+            ]
+          },
+          {
+            "name": "Ускорение сайта",
+            "url": "https://kwork.ru/categories/website-repair/uskorenie-sayta",
+            "views": []
+          },
+          {
+            "name": "Плагины и темы",
+            "url": "https://kwork.ru/categories/website-repair/plaginy-moduli-i-temy",
+            "views": []
+          },
+          {
+            "name": "Исправление ошибок",
+            "url": "https://kwork.ru/categories/website-repair/ispravlenie-oshibok",
+            "views": []
+          }
+        ]
+      },
+      {
+        "name": "Создание сайта",
+        "url": "https://kwork.ru/categories/website-development",
+        "types": [
+          {
+            "name": "Новый сайт",
+            "url": "https://kwork.ru/categories/website-development/noviy-sayt",
+            "views": [
+              {
+                "name": "Лендинг",
+                "url": "https://kwork.ru/categories/website-development/noviy-sayt-lending"
+              },
+              {
+                "name": "Интернет-магазин",
+                "url": "https://kwork.ru/categories/website-development/noviy-sayt-internet-magazin"
+              },
+              {
+                "name": "Инфосайт",
+                "url": "https://kwork.ru/categories/website-development/noviy-sayt-infosayt"
+              },
+              {
+                "name": "Визитка",
+                "url": "https://kwork.ru/categories/website-development/noviy-sayt-vizitka"
+              },
+              {
+                "name": "Интернет-сервис",
+                "url": "https://kwork.ru/categories/website-development/noviy-sayt-internet-servis"
+              },
+              {
+                "name": "Блог",
+                "url": "https://kwork.ru/categories/website-development/noviy-sayt-blog"
+              },
+              {
+                "name": "Форум",
+                "url": "https://kwork.ru/categories/website-development/noviy-sayt-forum"
+              }
+            ]
+          },
+          {
+            "name": "Копия сайта",
+            "url": "https://kwork.ru/categories/website-development/kopiya-sushchestvuyushchego",
+            "views": []
+          }
+        ]
+      },
+      {
+        "name": "Десктоп программирование",
+        "url": "https://kwork.ru/categories/software",
+        "types": [
+          {
+            "name": "Макросы для Office",
+            "url": "https://kwork.ru/categories/software/office",
+            "views": [
+              {
+                "name": "Excel",
+                "url": "https://kwork.ru/categories/software/office-excel"
+              },
+              {
+                "name": "Word",
+                "url": "https://kwork.ru/categories/software/office-word"
+              },
+              {
+                "name": "Access",
+                "url": "https://kwork.ru/categories/software/office-access"
+              }
+            ]
+          },
+          {
+            "name": "1С",
+            "url": "https://kwork.ru/categories/software/1s",
+            "views": []
+          },
+          {
+            "name": "Программы на заказ",
+            "url": "https://kwork.ru/categories/software/drugie-na-zakaz",
+            "views": []
+          },
+          {
+            "name": "Готовые программы",
+            "url": "https://kwork.ru/categories/software/drugie-gotovie",
+            "views": []
+          }
+        ]
+      },
+      {
+        "name": "Игры",
+        "url": "https://kwork.ru/categories/game-dev",
+        "types": [
+          {
+            "name": "Разработка игр",
+            "url": "https://kwork.ru/categories/game-dev/razrabotka-igr",
+            "views": [
+              {
+                "name": "ПК",
+                "url": "https://kwork.ru/categories/game-dev/razrabotka-igr-pk"
+              },
+              {
+                "name": "Мобильные",
+                "url": "https://kwork.ru/categories/game-dev/razrabotka-igr-mobilnie"
+              },
+              {
+                "name": "Браузерные",
+                "url": "https://kwork.ru/categories/game-dev/razrabotka-igr-brauzernie"
+              }
+            ]
+          },
+          {
+            "name": "Готовые игры",
+            "url": "https://kwork.ru/categories/game-dev/gotovie-igry",
+            "views": []
+          },
+          {
+            "name": "Игровой сервер",
+            "url": "https://kwork.ru/categories/game-dev/igrovoy-server",
+            "views": []
+          }
+        ]
+      },
+      {
+        "name": "Верстка",
+        "url": "https://kwork.ru/categories/frontend",
+        "types": [
+          {
+            "name": "Верстка по макету",
+            "url": "https://kwork.ru/categories/frontend/verstka-po-dizayn-maketu",
+            "views": []
+          },
+          {
+            "name": "Доработка и адаптация верстки",
+            "url": "https://kwork.ru/categories/frontend/dorabotka-verstki",
+            "views": [
+              {
+                "name": "Адаптация верстки",
+                "url": "https://kwork.ru/categories/frontend/dorabotka-verstki-vid-adaptivnaya-mobilnaya-verstka"
+              },
+              {
+                "name": "Доработка верстки",
+                "url": "https://kwork.ru/categories/frontend/dorabotka-verstki-dorabotka-verstki"
+              },
+              {
+                "name": "Исправление ошибок",
+                "url": "https://kwork.ru/categories/frontend/dorabotka-verstki-vid-ispravlenie-oshibok"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Юзабилити, тесты и помощь",
+        "url": "https://kwork.ru/categories/usability-testing",
+        "types": [
+          {
+            "name": "Юзабилити-аудит",
+            "url": "https://kwork.ru/categories/usability-testing/yuzabiliti-audit",
+            "views": [
+              {
+                "name": "Сайт",
+                "url": "https://kwork.ru/categories/usability-testing/yuzabiliti-audit-sayta"
+              },
+              {
+                "name": "Программа и приложение",
+                "url": "https://kwork.ru/categories/usability-testing/yuzabiliti-audit-prilozheniya"
+              }
+            ]
+          },
+          {
+            "name": "Тестирование на ошибки",
+            "url": "https://kwork.ru/categories/usability-testing/testirovanie-na-oshibki",
+            "views": [
+              {
+                "name": "Сайт",
+                "url": "https://kwork.ru/categories/usability-testing/testirovanie-na-oshibki-sayta"
+              },
+              {
+                "name": "Приложение",
+                "url": "https://kwork.ru/categories/usability-testing/testirovanie-na-oshibki-prilozheniya"
+              },
+              {
+                "name": "Программа",
+                "url": "https://kwork.ru/categories/usability-testing/testirovanie-na-oshibki-programmy"
+              }
+            ]
+          },
+          {
+            "name": "Компьютерная и IT помощь",
+            "url": "https://kwork.ru/categories/usability-testing/kompyuternaya-i-it-pomoshch",
+            "views": [
+              {
+                "name": "Обучение и консультации",
+                "url": "https://kwork.ru/categories/usability-testing/kompyuternaya-i-it-pomoshch-obuchenie-i-konsultatsii"
+              },
+              {
+                "name": "Составление ТЗ",
+                "url": "https://kwork.ru/categories/usability-testing/kompyuternaya-i-it-pomoshch-sostavlenie-tz"
+              },
+              {
+                "name": "ПК и комплектующие",
+                "url": "https://kwork.ru/categories/usability-testing/kompyuternaya-i-it-pomoshch-pk-i-komplektuyushchie"
+              },
+              {
+                "name": "Установка и настройка ПО",
+                "url": "https://kwork.ru/categories/usability-testing/kompyuternaya-i-it-pomoshch-ustanovka-i-nastroyka-po"
+              },
+              {
+                "name": "Диагностика и исправление проблем",
+                "url": "https://kwork.ru/categories/usability-testing/kompyuternaya-i-it-pomoshch-diagnostika-i-ispravlenie-problem"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Сервера и хостинг",
+        "url": "https://kwork.ru/categories/server-administration",
+        "types": [
+          {
+            "name": "Администрирование сервера",
+            "url": "https://kwork.ru/categories/server-administration/administrirovanie-servera",
+            "views": []
+          },
+          {
+            "name": "Домены",
+            "url": "https://kwork.ru/categories/server-administration/domeny",
+            "views": [
+              {
+                "name": "Подбор и регистрация",
+                "url": "https://kwork.ru/categories/server-administration/domeny-podbor-registratsiya"
+              },
+              {
+                "name": "Перенос сайта на домен",
+                "url": "https://kwork.ru/categories/server-administration/domeny-perenos-sayta-na-domen"
+              },
+              {
+                "name": "Настройка почты",
+                "url": "https://kwork.ru/categories/server-administration/domeny-nastroyka-pochty"
+              }
+            ]
+          },
+          {
+            "name": "Хостинг",
+            "url": "https://kwork.ru/categories/server-administration/khosting",
+            "views": [
+              {
+                "name": "Подбор и регистрация хостинга",
+                "url": "https://kwork.ru/categories/server-administration/khosting-podbor-registratsiya-khostinga"
+              },
+              {
+                "name": "Установка и перенос сайта",
+                "url": "https://kwork.ru/categories/server-administration/khosting-ustanovka-i-perenos-sayta"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Мобильные приложения",
+        "url": "https://kwork.ru/categories/mobile-apps",
+        "types": [
+          {
+            "name": "Android",
+            "url": "https://kwork.ru/categories/mobile-apps/android",
+            "views": [
+              {
+                "name": "Создание",
+                "url": "https://kwork.ru/categories/mobile-apps/android-sozdanie"
+              },
+              {
+                "name": "Публикация",
+                "url": "https://kwork.ru/categories/mobile-apps/android-publikatsiya"
+              },
+              {
+                "name": "Доработка",
+                "url": "https://kwork.ru/categories/mobile-apps/android-dorabotka"
+              },
+              {
+                "name": "Продвижение",
+                "url": "https://kwork.ru/categories/mobile-apps/android-prodvizhenie"
+              }
+            ]
+          },
+          {
+            "name": "iOS",
+            "url": "https://kwork.ru/categories/mobile-apps/ios",
+            "views": [
+              {
+                "name": "Создание",
+                "url": "https://kwork.ru/categories/mobile-apps/ios-sozdanie"
+              },
+              {
+                "name": "Публикация",
+                "url": "https://kwork.ru/categories/mobile-apps/ios-publikatsiya"
+              },
+              {
+                "name": "Доработка",
+                "url": "https://kwork.ru/categories/mobile-apps/ios-dorabotka"
+              },
+              {
+                "name": "Продвижение",
+                "url": "https://kwork.ru/categories/mobile-apps/ios-prodvizhenie"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "top": "Аудио, видео, съемка",
+    "url": "https://kwork.ru/categories/audio-video",
+    "subs": [
+      {
+        "name": "Видеоролики",
+        "url": "https://kwork.ru/categories/animation",
+        "types": [
+          {
+            "name": "Дудл-видео",
+            "url": "https://kwork.ru/categories/animation/dudl-video",
+            "views": [
+              {
+                "name": "Уникальный",
+                "url": "https://kwork.ru/categories/animation/dudl-video-unikalniy"
+              },
+              {
+                "name": "На шаблоне",
+                "url": "https://kwork.ru/categories/animation/dudl-video-na-shablone"
+              }
+            ]
+          },
+          {
+            "name": "Анимационный ролик",
+            "url": "https://kwork.ru/categories/animation/animatsionniy-rolik",
+            "views": [
+              {
+                "name": "Уникальный",
+                "url": "https://kwork.ru/categories/animation/animatsionniy-rolik-unikalniy"
+              },
+              {
+                "name": "На шаблоне",
+                "url": "https://kwork.ru/categories/animation/animatsionniy-rolik-na-shablone"
+              }
+            ]
+          },
+          {
+            "name": "Проморолик",
+            "url": "https://kwork.ru/categories/animation/promo-rolik",
+            "views": [
+              {
+                "name": "Уникальный",
+                "url": "https://kwork.ru/categories/animation/promo-rolik-unikalniy"
+              },
+              {
+                "name": "На шаблоне",
+                "url": "https://kwork.ru/categories/animation/promo-rolik-na-shablone"
+              }
+            ]
+          },
+          {
+            "name": "Ролики для соцсетей",
+            "url": "https://kwork.ru/categories/animation/roliki-dlya-sotssetey",
+            "views": [
+              {
+                "name": "Уникальный",
+                "url": "https://kwork.ru/categories/animation/roliki-dlya-sotssetey-unikalniy"
+              },
+              {
+                "name": "На шаблоне",
+                "url": "https://kwork.ru/categories/animation/roliki-dlya-sotssetey-na-shablone"
+              }
+            ]
+          },
+          {
+            "name": "Слайд-шоу",
+            "url": "https://kwork.ru/categories/animation/slayd-shou",
+            "views": [
+              {
+                "name": "Уникальный",
+                "url": "https://kwork.ru/categories/animation/slayd-shou-unikalniy"
+              },
+              {
+                "name": "На шаблоне",
+                "url": "https://kwork.ru/categories/animation/slayd-shou-na-shablone"
+              }
+            ]
+          },
+          {
+            "name": "Скринкасты и видеообзоры",
+            "url": "https://kwork.ru/categories/animation/skrinkasty-i-videoobzory",
+            "views": []
+          },
+          {
+            "name": "Кинетическая типографика",
+            "url": "https://kwork.ru/categories/animation/kineticheskaya-tipografika",
+            "views": [
+              {
+                "name": "Уникальный",
+                "url": "https://kwork.ru/categories/animation/kineticheskaya-tipografika-unikalniy"
+              },
+              {
+                "name": "На шаблоне",
+                "url": "https://kwork.ru/categories/animation/kineticheskaya-tipografika-na-shablone"
+              }
+            ]
+          },
+          {
+            "name": "Видео с ведущим",
+            "url": "https://kwork.ru/categories/animation/video-s-vedushchim",
+            "views": [
+              {
+                "name": "Поздравление, пародия",
+                "url": "https://kwork.ru/categories/animation/video-s-vedushchim-pozdravlenie-parodiya"
+              },
+              {
+                "name": "Видео на заказ",
+                "url": "https://kwork.ru/categories/animation/video-s-vedushchim-video-na-zakaz"
+              }
+            ]
+          },
+          {
+            "name": "Видеопрезентация",
+            "url": "https://kwork.ru/categories/animation/videoprezentatsiya",
+            "views": []
+          }
+        ]
+      },
+      {
+        "name": "Музыка и песни",
+        "url": "https://kwork.ru/categories/music",
+        "types": [
+          {
+            "name": "Написание музыки",
+            "url": "https://kwork.ru/categories/music/napisanie-muzyki",
+            "views": []
+          },
+          {
+            "name": "Тексты песен",
+            "url": "https://kwork.ru/categories/music/napisanie-teksta-pesen",
+            "views": [
+              {
+                "name": "С нуля",
+                "url": "https://kwork.ru/categories/music/napisanie-teksta-pesen-s-nulya"
+              },
+              {
+                "name": "Ремейк",
+                "url": "https://kwork.ru/categories/music/napisanie-teksta-pesen-peredelka"
+              }
+            ]
+          },
+          {
+            "name": "Аранжировка",
+            "url": "https://kwork.ru/categories/music/aranzhirovka",
+            "views": []
+          },
+          {
+            "name": "Запись вокала",
+            "url": "https://kwork.ru/categories/music/zapis-vokala",
+            "views": []
+          },
+          {
+            "name": "Песня (музыка + текст + вокал)",
+            "url": "https://kwork.ru/categories/music/pesnya-muzyka-tekst-vokal",
+            "views": []
+          }
+        ]
+      },
+      {
+        "name": "Интро и анимация логотипа",
+        "url": "https://kwork.ru/categories/intro",
+        "types": [
+          {
+            "name": "Анимация логотипа",
+            "url": "https://kwork.ru/categories/intro/animatsiya-logotipa",
+            "views": [
+              {
+                "name": "Уникальное",
+                "url": "https://kwork.ru/categories/intro/animatsiya-logotipa-unikalnoe"
+              },
+              {
+                "name": "На шаблоне",
+                "url": "https://kwork.ru/categories/intro/animatsiya-logotipa-na-shablone"
+              }
+            ]
+          },
+          {
+            "name": "Интро и заставки",
+            "url": "https://kwork.ru/categories/intro/intro-i-zastavki",
+            "views": [
+              {
+                "name": "Уникальное",
+                "url": "https://kwork.ru/categories/intro/intro-i-zastavki-unikalnoe"
+              },
+              {
+                "name": "На шаблоне",
+                "url": "https://kwork.ru/categories/intro/intro-i-zastavki-na-shablone"
+              }
+            ]
+          },
+          {
+            "name": "GIF-анимация",
+            "url": "https://kwork.ru/categories/intro/gif-animatsiya",
+            "views": []
+          }
+        ]
+      },
+      {
+        "name": "Редактирование аудио",
+        "url": "https://kwork.ru/categories/editing-audio",
+        "types": [
+          {
+            "name": "Обработка звука",
+            "url": "https://kwork.ru/categories/editing-audio/redaktirovanie",
+            "views": []
+          },
+          {
+            "name": "Выделение звука из видео",
+            "url": "https://kwork.ru/categories/editing-audio/konvertatsiya",
+            "views": []
+          }
+        ]
+      },
+      {
+        "name": "Видеосъемка и монтаж",
+        "url": "https://kwork.ru/categories/editing-media",
+        "types": [
+          {
+            "name": "Видеосъемка",
+            "url": "https://kwork.ru/categories/editing-media/semka-i-sozdanie-video",
+            "views": []
+          },
+          {
+            "name": "Монтаж и обработка видео",
+            "url": "https://kwork.ru/categories/editing-media/montazh-i-obrabotka-video",
+            "views": [
+              {
+                "name": "Монтаж",
+                "url": "https://kwork.ru/categories/editing-media/montazh-i-obrabotka-video-montazh"
+              },
+              {
+                "name": "Редактирование",
+                "url": "https://kwork.ru/categories/editing-media/montazh-i-obrabotka-video-redaktirovanie"
+              }
+            ]
+          },
+          {
+            "name": "Фотосъемка",
+            "url": "https://kwork.ru/categories/editing-media/fotosemka",
+            "views": []
+          }
+        ]
+      },
+      {
+        "name": "Аудиозапись и озвучка",
+        "url": "https://kwork.ru/categories/audio",
+        "types": [
+          {
+            "name": "Озвучка и дикторы",
+            "url": "https://kwork.ru/categories/audio/ozvuchka",
+            "views": []
+          },
+          {
+            "name": "Аудиоролик",
+            "url": "https://kwork.ru/categories/audio/audiorolik",
+            "views": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "top": "Соцсети и маркетинг",
+    "url": "https://kwork.ru/categories/promotion",
+    "subs": [
+      {
+        "name": "Соцсети и SMM",
+        "url": "https://kwork.ru/categories/smm",
+        "types": [
+          {
+            "name": "Youtube",
+            "url": "https://kwork.ru/categories/smm/youtube",
+            "views": [
+              {
+                "name": "Создание и настройка",
+                "url": "https://kwork.ru/categories/smm/youtube-sozdanie-nastroyka"
+              },
+              {
+                "name": "Ведение и администрирование",
+                "url": "https://kwork.ru/categories/smm/youtube-vedenie-i-administrirovanie"
+              },
+              {
+                "name": "Аудит и продвижение",
+                "url": "https://kwork.ru/categories/smm/youtube-audit-optimizatsiya"
+              },
+              {
+                "name": "Настройка таргетинга",
+                "url": "https://kwork.ru/categories/smm/youtube-nastroyka-targetinga"
+              },
+              {
+                "name": "Интеграция в блогах",
+                "url": "https://kwork.ru/categories/smm/youtube-integratsiya-v-blogakh"
+              }
+            ]
+          },
+          {
+            "name": "ВКонтакте",
+            "url": "https://kwork.ru/categories/smm/vkontakte",
+            "views": [
+              {
+                "name": "Создание и настройка",
+                "url": "https://kwork.ru/categories/smm/vkontakte-sozdanie-nastroyka"
+              },
+              {
+                "name": "Ведение и администрирование",
+                "url": "https://kwork.ru/categories/smm/vkontakte-vedenie-i-administrirovanie"
+              },
+              {
+                "name": "Аудит и оптимизация",
+                "url": "https://kwork.ru/categories/smm/vkontakte-audit-optimizatsiya"
+              },
+              {
+                "name": "Таргетинг и работа с ЦА",
+                "url": "https://kwork.ru/categories/smm/vkontakte-reklama-targeting-tsa"
+              },
+              {
+                "name": "Интеграция в блогах",
+                "url": "https://kwork.ru/categories/smm/vkontakte-integratsiya-v-blogakh"
+              }
+            ]
+          },
+          {
+            "name": "Telegram",
+            "url": "https://kwork.ru/categories/smm/telegram",
+            "views": [
+              {
+                "name": "Создание и настройка",
+                "url": "https://kwork.ru/categories/smm/telegram-sozdanie-nastroyka"
+              },
+              {
+                "name": "Ведение и администрирование",
+                "url": "https://kwork.ru/categories/smm/telegram-vedenie-i-administrirovanie"
+              },
+              {
+                "name": "Аудит и оптимизация",
+                "url": "https://kwork.ru/categories/smm/telegram-audit-optimizatsiya"
+              },
+              {
+                "name": "Таргетинг и работа с ЦА",
+                "url": "https://kwork.ru/categories/smm/telegram-reklama-tsa"
+              },
+              {
+                "name": "Интеграция в блогах",
+                "url": "https://kwork.ru/categories/smm/telegram-integratsiya-v-blogakh"
+              },
+              {
+                "name": "Репосты и комментарии",
+                "url": "https://kwork.ru/categories/smm/telegram-reposty-i-kommentarii"
+              }
+            ]
+          },
+          {
+            "name": "MAX",
+            "url": "https://kwork.ru/categories/smm/max",
+            "views": [
+              {
+                "name": "Создание и настройка",
+                "url": "https://kwork.ru/categories/smm/max-sozdanie-i-nastroyka"
+              },
+              {
+                "name": "Ведение и администрирование",
+                "url": "https://kwork.ru/categories/smm/max-vedenie-i-administrirovanie"
+              },
+              {
+                "name": "Аудит и оптимизация",
+                "url": "https://kwork.ru/categories/smm/max-audit-i-optimizatsiya"
+              },
+              {
+                "name": "Таргетинг и работа с ЦА",
+                "url": "https://kwork.ru/categories/smm/max-reklama-targeting-tsa"
+              },
+              {
+                "name": "Интеграция в блогах",
+                "url": "https://kwork.ru/categories/smm/max-integratsiya-v-blogakh"
+              },
+              {
+                "name": "Подписчики",
+                "url": "https://kwork.ru/categories/smm/max-podpischiki"
+              },
+              {
+                "name": "Просмотры",
+                "url": "https://kwork.ru/categories/smm/max-prosmotry"
+              },
+              {
+                "name": "Лайки",
+                "url": "https://kwork.ru/categories/smm/max-layki"
+              },
+              {
+                "name": "Комментарии",
+                "url": "https://kwork.ru/categories/smm/max-kommentarii"
+              },
+              {
+                "name": "Репосты",
+                "url": "https://kwork.ru/categories/smm/max-reposty"
+              }
+            ]
+          },
+          {
+            "name": "Одноклассники",
+            "url": "https://kwork.ru/categories/smm/odnoklassniki",
+            "views": [
+              {
+                "name": "Создание и настройка",
+                "url": "https://kwork.ru/categories/smm/odnoklassniki-sozdanie-nastroyka"
+              },
+              {
+                "name": "Ведение и администрирование",
+                "url": "https://kwork.ru/categories/smm/odnoklassniki-vedenie-i-administrirovanie"
+              },
+              {
+                "name": "Аудит и оптимизация",
+                "url": "https://kwork.ru/categories/smm/odnoklassniki-audit-optimizatsiya"
+              },
+              {
+                "name": "Таргетинг и работа с ЦА",
+                "url": "https://kwork.ru/categories/smm/odnoklassniki-reklama-targeting-tsa"
+              },
+              {
+                "name": "Просмотры и комментарии",
+                "url": "https://kwork.ru/categories/smm/odnoklassniki-prosmotry-i-kommentarii"
+              }
+            ]
+          },
+          {
+            "name": "Дзен",
+            "url": "https://kwork.ru/categories/smm/yandeks-dzen",
+            "views": [
+              {
+                "name": "Создание и настройка",
+                "url": "https://kwork.ru/categories/smm/yandeks-dzen-sozdanie-nastroyka"
+              },
+              {
+                "name": "Ведение и администрирование",
+                "url": "https://kwork.ru/categories/smm/yandeks-dzen-vedenie-i-administrirovanie"
+              },
+              {
+                "name": "Аудит и оптимизация",
+                "url": "https://kwork.ru/categories/smm/yandeks-dzen-audit-optimizatsiya"
+              },
+              {
+                "name": "Интеграция в блогах",
+                "url": "https://kwork.ru/categories/smm/yandeks-dzen-reklama-targeting-tsa"
+              },
+              {
+                "name": "Дочитывания",
+                "url": "https://kwork.ru/categories/smm/yandeks-dzen-dochityvaniya"
+              }
+            ]
+          },
+          {
+            "name": "TikTok",
+            "url": "https://kwork.ru/categories/smm/tiktok",
+            "views": [
+              {
+                "name": "Создание и настройка",
+                "url": "https://kwork.ru/categories/smm/tiktok-sozdanie-nastroyka"
+              },
+              {
+                "name": "Ведение и администрирование",
+                "url": "https://kwork.ru/categories/smm/tiktok-vedenie-i-administrirovanie"
+              },
+              {
+                "name": "Таргетинг и работа с ЦА",
+                "url": "https://kwork.ru/categories/smm/tiktok-reklama-targeting-tsa"
+              }
+            ]
+          },
+          {
+            "name": "VC.ru",
+            "url": "https://kwork.ru/categories/smm/vc-ru",
+            "views": [
+              {
+                "name": "Ведение и администрирование",
+                "url": "https://kwork.ru/categories/smm/vc-ru-vedenie-i-administrirovanie"
+              },
+              {
+                "name": "Интеграция в блогах",
+                "url": "https://kwork.ru/categories/smm/vc-ru-integratsiya-v-blogakh"
+              },
+              {
+                "name": "Подписчики",
+                "url": "https://kwork.ru/categories/smm/vc-ru-podpischiki"
+              },
+              {
+                "name": "Просмотры",
+                "url": "https://kwork.ru/categories/smm/vc-ru-prosmotry"
+              },
+              {
+                "name": "Комментарии",
+                "url": "https://kwork.ru/categories/smm/vc-ru-kommentarii"
+              },
+              {
+                "name": "Репосты",
+                "url": "https://kwork.ru/categories/smm/vc-ru-reposty"
+              }
+            ]
+          },
+          {
+            "name": "Reddit",
+            "url": "https://kwork.ru/categories/smm/reddit",
+            "views": [
+              {
+                "name": "Ведение и администрирование",
+                "url": "https://kwork.ru/categories/smm/reddit-vedenie-i-administrirovanie"
+              },
+              {
+                "name": "Подписчики",
+                "url": "https://kwork.ru/categories/smm/reddit-podpischiki"
+              },
+              {
+                "name": "Комментарии",
+                "url": "https://kwork.ru/categories/smm/reddit-kommentarii"
+              }
+            ]
+          },
+          {
+            "name": "Другие",
+            "url": "https://kwork.ru/categories/smm/drugie",
+            "views": [
+              {
+                "name": "Создание и настройка",
+                "url": "https://kwork.ru/categories/smm/drugie-sozdanie-nastroyka"
+              },
+              {
+                "name": "Ведение и администрирование",
+                "url": "https://kwork.ru/categories/smm/drugie-vedenie-i-administrirovanie"
+              },
+              {
+                "name": "Аудит и оптимизация",
+                "url": "https://kwork.ru/categories/smm/drugie-audit-optimizatsiya"
+              },
+              {
+                "name": "Таргетинг и работа с ЦА",
+                "url": "https://kwork.ru/categories/smm/drugie-reklama-targeting-tsa"
+              },
+              {
+                "name": "Интеграция в блогах",
+                "url": "https://kwork.ru/categories/smm/drugie-integratsiya-v-blogakh"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Маркетплейсы и доски объявлений",
+        "url": "https://kwork.ru/categories/bulletin-boards",
+        "types": [
+          {
+            "name": "Маркетплейсы",
+            "url": "https://kwork.ru/categories/bulletin-boards/torgovie-ploshchadki",
+            "views": [
+              {
+                "name": "Ozon",
+                "url": "https://kwork.ru/categories/bulletin-boards/torgovie-ploshchadki-ozon"
+              },
+              {
+                "name": "Wildberries",
+                "url": "https://kwork.ru/categories/bulletin-boards/torgovie-ploshchadki-wildberries"
+              },
+              {
+                "name": "Яндекс Маркет",
+                "url": "https://kwork.ru/categories/bulletin-boards/torgovie-ploshchadki-yandeks-market"
+              },
+              {
+                "name": "Другие",
+                "url": "https://kwork.ru/categories/bulletin-boards/torgovie-ploshchadki-drugie"
+              }
+            ]
+          },
+          {
+            "name": "Доски объявлений",
+            "url": "https://kwork.ru/categories/bulletin-boards/doski-obyavlenii",
+            "views": [
+              {
+                "name": "Авито",
+                "url": "https://kwork.ru/categories/bulletin-boards/doski-obyavleniy-avito"
+              },
+              {
+                "name": "Другие",
+                "url": "https://kwork.ru/categories/bulletin-boards/doski-obyavleniy-drugie"
+              }
+            ]
+          },
+          {
+            "name": "Справочники и каталоги",
+            "url": "https://kwork.ru/categories/bulletin-boards/spravochniki-katalogi",
+            "views": []
+          }
+        ]
+      },
+      {
+        "name": "E-mail маркетинг и рассылки",
+        "url": "https://kwork.ru/categories/email-marketing",
+        "types": [
+          {
+            "name": "Отправка рассылки",
+            "url": "https://kwork.ru/categories/email-marketing/otpravka-rassylki",
+            "views": [
+              {
+                "name": "E-mail",
+                "url": "https://kwork.ru/categories/email-marketing/otpravka-rassylki-e-mail"
+              },
+              {
+                "name": "Мессенджер",
+                "url": "https://kwork.ru/categories/email-marketing/otpravka-rassylki-messendzher"
+              },
+              {
+                "name": "Форма связи",
+                "url": "https://kwork.ru/categories/email-marketing/otpravka-rassylki-forma-svyazi"
+              }
+            ]
+          },
+          {
+            "name": "Ведение и настройка почтового клиента",
+            "url": "https://kwork.ru/categories/email-marketing/pochtovie-yashchiki",
+            "views": []
+          }
+        ]
+      },
+      {
+        "name": "Базы данных и клиентов",
+        "url": "https://kwork.ru/categories/information-bases",
+        "types": [
+          {
+            "name": "Сбор данных",
+            "url": "https://kwork.ru/categories/information-bases/sbor-dannykh",
+            "views": [
+              {
+                "name": "Организации",
+                "url": "https://kwork.ru/categories/information-bases/sbor-dannykh-organizatsii"
+              },
+              {
+                "name": "Группы, каналы и сообщества",
+                "url": "https://kwork.ru/categories/information-bases/sbor-dannykh-email-akkaunty"
+              },
+              {
+                "name": "Товары",
+                "url": "https://kwork.ru/categories/information-bases/sbor-dannykh-tovary"
+              },
+              {
+                "name": "Другое",
+                "url": "https://kwork.ru/categories/information-bases/sbor-dannykh-drugoe"
+              }
+            ]
+          },
+          {
+            "name": "Готовые базы",
+            "url": "https://kwork.ru/categories/information-bases/gotovie-bazy",
+            "views": [
+              {
+                "name": "Организации",
+                "url": "https://kwork.ru/categories/information-bases/gotovie-bazy-organizatsii"
+              },
+              {
+                "name": "Группы, каналы и сообщества",
+                "url": "https://kwork.ru/categories/information-bases/gotovie-bazy-email-akkaunty"
+              },
+              {
+                "name": "Сайты и домены",
+                "url": "https://kwork.ru/categories/information-bases/gotovie-bazy-sayty-i-domeny"
+              },
+              {
+                "name": "Товары",
+                "url": "https://kwork.ru/categories/information-bases/gotovie-bazy-tovary"
+              },
+              {
+                "name": "Другое",
+                "url": "https://kwork.ru/categories/information-bases/gotovie-bazy-drugoe"
+              }
+            ]
+          },
+          {
+            "name": "Проверка, чистка базы",
+            "url": "https://kwork.ru/categories/information-bases/proverka-chistka-bazy",
+            "views": []
+          }
+        ]
+      },
+      {
+        "name": "Маркетинг и PR",
+        "url": "https://kwork.ru/categories/marketing",
+        "types": [
+          {
+            "name": "Контент-маркетинг",
+            "url": "https://kwork.ru/categories/marketing/pr",
+            "views": [
+              {
+                "name": "Размещение контента",
+                "url": "https://kwork.ru/categories/marketing/kontent-marketing-razmeshchenie-kontenta"
+              },
+              {
+                "name": "Работа с репутацией",
+                "url": "https://kwork.ru/categories/marketing/kontent-marketing-rabota-s-reputatsiey"
+              },
+              {
+                "name": "Продвижение в картах",
+                "url": "https://kwork.ru/categories/marketing/kontent-marketing-prodvizhenie-v-kartakh"
+              },
+              {
+                "name": "PR кампании",
+                "url": "https://kwork.ru/categories/marketing/kontent-marketing-pr-kompanii"
+              }
+            ]
+          },
+          {
+            "name": "Продвижение музыки",
+            "url": "https://kwork.ru/categories/marketing/prodvizhenie-muzyki",
+            "views": [
+              {
+                "name": "SoundCloud",
+                "url": "https://kwork.ru/categories/marketing/prodvizhenie-muzyki-soundcloud"
+              },
+              {
+                "name": "Spotify",
+                "url": "https://kwork.ru/categories/marketing/prodvizhenie-muzyki-spotify"
+              },
+              {
+                "name": "Яндекс.Музыка",
+                "url": "https://kwork.ru/categories/marketing/prodvizhenie-muzyki-yandeks-muzyka"
+              },
+              {
+                "name": "Apple Music",
+                "url": "https://kwork.ru/categories/marketing/prodvizhenie-muzyki-apple-music"
+              },
+              {
+                "name": "Другое",
+                "url": "https://kwork.ru/categories/marketing/prodvizhenie-muzyki-drugoe"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Контекстная реклама",
+        "url": "https://kwork.ru/categories/context",
+        "types": [
+          {
+            "name": "Яндекс Директ",
+            "url": "https://kwork.ru/categories/context/yandeks",
+            "views": [
+              {
+                "name": "Создание и настройка",
+                "url": "https://kwork.ru/categories/context/yandeks-sozdanie-nastroyka"
+              },
+              {
+                "name": "Ведение",
+                "url": "https://kwork.ru/categories/context/yandeks-vedenie"
+              },
+              {
+                "name": "Аудит и оптимизация",
+                "url": "https://kwork.ru/categories/context/yandeks-audit-optimizatsiya"
+              },
+              {
+                "name": "Перенос кампании",
+                "url": "https://kwork.ru/categories/context/yandeks-perenos-kampanii"
+              }
+            ]
+          },
+          {
+            "name": "Google Ads",
+            "url": "https://kwork.ru/categories/context/google",
+            "views": [
+              {
+                "name": "Создание и настройка",
+                "url": "https://kwork.ru/categories/context/google-sozdanie-nastroyka"
+              },
+              {
+                "name": "Ведение",
+                "url": "https://kwork.ru/categories/context/google-vedenie"
+              },
+              {
+                "name": "Аудит и оптимизация",
+                "url": "https://kwork.ru/categories/context/google-audit-optimizatsiya"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "top": "Бизнес и жизнь",
+    "url": "https://kwork.ru/categories/business",
+    "subs": [
+      {
+        "name": "Юридическая помощь",
+        "url": "https://kwork.ru/categories/lawyer-consulting",
+        "types": [
+          {
+            "name": "Договор и доверенность",
+            "url": "https://kwork.ru/categories/lawyer-consulting/dogovor-doverennost",
+            "views": []
+          },
+          {
+            "name": "Судебный документ",
+            "url": "https://kwork.ru/categories/lawyer-consulting/sudebniy-dokument",
+            "views": []
+          },
+          {
+            "name": "Ведение ООО и ИП",
+            "url": "https://kwork.ru/categories/lawyer-consulting/vedenie-ooo-i-ip",
+            "views": []
+          },
+          {
+            "name": "Юридическая консультация",
+            "url": "https://kwork.ru/categories/lawyer-consulting/yuridicheskaya-konsultatsiya",
+            "views": []
+          },
+          {
+            "name": "Интернет-право",
+            "url": "https://kwork.ru/categories/lawyer-consulting/internet-pravo",
+            "views": []
+          },
+          {
+            "name": "Визы",
+            "url": "https://kwork.ru/categories/lawyer-consulting/vizy",
+            "views": []
+          }
+        ]
+      },
+      {
+        "name": "Обзвоны и продажи",
+        "url": "https://kwork.ru/categories/calls-sales",
+        "types": [
+          {
+            "name": "Продажи по телефону",
+            "url": "https://kwork.ru/categories/calls-sales/prodazhi-po-telefonu",
+            "views": []
+          },
+          {
+            "name": "Телефонный опрос",
+            "url": "https://kwork.ru/categories/calls-sales/telefonniy-opros",
+            "views": []
+          }
+        ]
+      },
+      {
+        "name": "Персональный помощник",
+        "url": "https://kwork.ru/categories/personal-assistant",
+        "types": [
+          {
+            "name": "Поиск информации",
+            "url": "https://kwork.ru/categories/personal-assistant/poisk-informatsii",
+            "views": []
+          },
+          {
+            "name": "Работа в MS Office",
+            "url": "https://kwork.ru/categories/personal-assistant/rabota-v-ms-office",
+            "views": [
+              {
+                "name": "Excel",
+                "url": "https://kwork.ru/categories/personal-assistant/rabota-v-ms-office-excel"
+              },
+              {
+                "name": "Word",
+                "url": "https://kwork.ru/categories/personal-assistant/rabota-v-ms-office-word"
+              },
+              {
+                "name": "Другие",
+                "url": "https://kwork.ru/categories/personal-assistant/rabota-v-ms-office-drugie"
+              }
+            ]
+          },
+          {
+            "name": "Анализ информации",
+            "url": "https://kwork.ru/categories/personal-assistant/analiz-informatsii",
+            "views": []
+          },
+          {
+            "name": "Любая интеллектуальная работа",
+            "url": "https://kwork.ru/categories/personal-assistant/lyubaya-intellektualnaya-rabota",
+            "views": []
+          },
+          {
+            "name": "Любая рутинная работа",
+            "url": "https://kwork.ru/categories/personal-assistant/lyubaya-rutinnaya-rabota",
+            "views": [
+              {
+                "name": "Личный помощник",
+                "url": "https://kwork.ru/categories/personal-assistant/lyubaya-rutinnaya-rabota-lichniy-pomoshchnik"
+              },
+              {
+                "name": "Менеджер сайта",
+                "url": "https://kwork.ru/categories/personal-assistant/lyubaya-rutinnaya-rabota-menedzher-sayta"
+              },
+              {
+                "name": "Помощник вебмастеру",
+                "url": "https://kwork.ru/categories/personal-assistant/lyubaya-rutinnaya-rabota-pomoshchnik-vebmasteru"
+              },
+              {
+                "name": "Скачивание информации, скриншоты",
+                "url": "https://kwork.ru/categories/personal-assistant/lyubaya-rutinnaya-rabota-zagruzki-i-skrinshoty"
+              },
+              {
+                "name": "Создание QR кода",
+                "url": "https://kwork.ru/categories/personal-assistant/lyubaya-rutinnaya-rabota-sozdanie-qr-koda"
+              }
+            ]
+          },
+          {
+            "name": "Менеджмент проектов",
+            "url": "https://kwork.ru/categories/personal-assistant/menedzhment-proekta",
+            "views": [
+              {
+                "name": "Аудит и анализ",
+                "url": "https://kwork.ru/categories/personal-assistant/menedzhment-proekta-audit-i-analiz"
+              },
+              {
+                "name": "Бизнес план",
+                "url": "https://kwork.ru/categories/personal-assistant/menedzhment-proekta-biznes-plan"
+              },
+              {
+                "name": "Продажи",
+                "url": "https://kwork.ru/categories/personal-assistant/menedzhment-proekta-prodazhi"
+              },
+              {
+                "name": "Нейминг и слоганы",
+                "url": "https://kwork.ru/categories/personal-assistant/menedzhment-proekta-neyming-i-slogany"
+              },
+              {
+                "name": "Контент-план",
+                "url": "https://kwork.ru/categories/personal-assistant/menedzhment-proekta-kontent-plan"
+              },
+              {
+                "name": "Техническое задание",
+                "url": "https://kwork.ru/categories/personal-assistant/menedzhment-proekta-tekhnicheskoe-zadanie"
+              },
+              {
+                "name": "Технологическая документация",
+                "url": "https://kwork.ru/categories/personal-assistant/menedzhment-proekta-tekhnologicheskaya-dokumentatsiya"
+              },
+              {
+                "name": "Кадровый учет",
+                "url": "https://kwork.ru/categories/personal-assistant/menedzhment-proekta-kadroviy-uchet"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Бухгалтерия и налоги",
+        "url": "https://kwork.ru/categories/financial-consulting",
+        "types": [
+          {
+            "name": "Для физлиц",
+            "url": "https://kwork.ru/categories/financial-consulting/dlya-fiz-lits",
+            "views": []
+          },
+          {
+            "name": "Для юрлиц и ИП",
+            "url": "https://kwork.ru/categories/financial-consulting/dlya-yur-lits-i-ip",
+            "views": []
+          }
+        ]
+      },
+      {
+        "name": "Продажа сайтов и групп",
+        "url": "https://kwork.ru/categories/sites-for-sale",
+        "types": [
+          {
+            "name": "Сайт с доменом",
+            "url": "https://kwork.ru/categories/sites-for-sale/sayt-s-domenom",
+            "views": [
+              {
+                "name": "Интернет-магазин",
+                "url": "https://kwork.ru/categories/sites-for-sale/sayt-s-domenom-internet-magazin"
+              },
+              {
+                "name": "Сайт",
+                "url": "https://kwork.ru/categories/sites-for-sale/sayt-s-domenom-infosayt"
+              },
+              {
+                "name": "Интернет-сервис",
+                "url": "https://kwork.ru/categories/sites-for-sale/sayt-s-domenom-internet-servis"
+              }
+            ]
+          },
+          {
+            "name": "Сайт без домена",
+            "url": "https://kwork.ru/categories/sites-for-sale/sayt-bez-domena",
+            "views": [
+              {
+                "name": "Лендинг",
+                "url": "https://kwork.ru/categories/sites-for-sale/sayt-bez-domena-lending"
+              },
+              {
+                "name": "Интернет-магазин",
+                "url": "https://kwork.ru/categories/sites-for-sale/sayt-bez-domena-internet-magazin"
+              },
+              {
+                "name": "Инфосайт",
+                "url": "https://kwork.ru/categories/sites-for-sale/sayt-bez-domena-infosayt"
+              },
+              {
+                "name": "Визитка",
+                "url": "https://kwork.ru/categories/sites-for-sale/sayt-bez-domena-vizitka"
+              },
+              {
+                "name": "Блог",
+                "url": "https://kwork.ru/categories/sites-for-sale/sayt-bez-domena-blog"
+              },
+              {
+                "name": "Интернет-сервис",
+                "url": "https://kwork.ru/categories/sites-for-sale/sayt-bez-domena-internet-servis"
+              }
+            ]
+          },
+          {
+            "name": "Домены",
+            "url": "https://kwork.ru/categories/sites-for-sale/domeny",
+            "views": []
+          },
+          {
+            "name": "Приложения",
+            "url": "https://kwork.ru/categories/sites-for-sale/domen-prilozhenie-i-inoe",
+            "views": [
+              {
+                "name": "Мобильное приложение",
+                "url": "https://kwork.ru/categories/sites-for-sale/domen-prilozhenie-i-inoe-vid-mobilnoe-prilozhenie"
+              },
+              {
+                "name": "Конструктор сайтов",
+                "url": "https://kwork.ru/categories/sites-for-sale/domen-prilozhenie-i-inoe-vid-konstruktor-saytov"
+              }
+            ]
+          },
+          {
+            "name": "Группы и каналы соцсетей",
+            "url": "https://kwork.ru/categories/sites-for-sale/gruppy-i-kanaly-sotssetey",
+            "views": [
+              {
+                "name": "Youtube",
+                "url": "https://kwork.ru/categories/sites-for-sale/gruppy-i-kanaly-sotssetey-youtube"
+              },
+              {
+                "name": "ВКонтакте",
+                "url": "https://kwork.ru/categories/sites-for-sale/gruppy-i-kanaly-sotssetey-vkontakte"
+              },
+              {
+                "name": "Telegram",
+                "url": "https://kwork.ru/categories/sites-for-sale/gruppy-i-kanaly-sotssetey-telegram"
+              },
+              {
+                "name": "Другие",
+                "url": "https://kwork.ru/categories/sites-for-sale/gruppy-i-kanaly-sotssetey-drugie"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Подбор персонала",
+        "url": "https://kwork.ru/categories/recruitment",
+        "types": [
+          {
+            "name": "Подбор резюме",
+            "url": "https://kwork.ru/categories/recruitment/podbor-rezyume",
+            "views": []
+          },
+          {
+            "name": "Найм специалиста",
+            "url": "https://kwork.ru/categories/recruitment/naym-spetsialista",
+            "views": [
+              {
+                "name": "IT-специалист",
+                "url": "https://kwork.ru/categories/recruitment/naym-spetsialista-it-spetsialist"
+              },
+              {
+                "name": "Руководитель",
+                "url": "https://kwork.ru/categories/recruitment/naym-spetsialista-rukovoditel"
+              },
+              {
+                "name": "Другие профессионалы",
+                "url": "https://kwork.ru/categories/recruitment/naym-spetsialista-drugie-professionaly"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Стройка и ремонт",
+        "url": "https://kwork.ru/categories/engineering",
+        "types": [
+          {
+            "name": "Строительство",
+            "url": "https://kwork.ru/categories/engineering/stroitelstvo",
+            "views": [
+              {
+                "name": "Фундамент",
+                "url": "https://kwork.ru/categories/engineering/stroitelstvo-fundament"
+              },
+              {
+                "name": "Стены",
+                "url": "https://kwork.ru/categories/engineering/stroitelstvo-steny"
+              },
+              {
+                "name": "Кровля",
+                "url": "https://kwork.ru/categories/engineering/stroitelstvo-krovlya"
+              },
+              {
+                "name": "Инженерные системы",
+                "url": "https://kwork.ru/categories/engineering/stroitelstvo-inzhenernie-sistemy"
+              },
+              {
+                "name": "Полы",
+                "url": "https://kwork.ru/categories/engineering/stroitelstvo-poly"
+              },
+              {
+                "name": "Потолки",
+                "url": "https://kwork.ru/categories/engineering/stroitelstvo-potolki"
+              },
+              {
+                "name": "Окна и двери",
+                "url": "https://kwork.ru/categories/engineering/stroitelstvo-okna-i-dveri"
+              },
+              {
+                "name": "Лестницы и конструкции",
+                "url": "https://kwork.ru/categories/engineering/stroitelstvo-lestnitsy-i-konstruktsii"
+              },
+              {
+                "name": "Материалы и инструменты",
+                "url": "https://kwork.ru/categories/engineering/stroitelstvo-materialy-i-instrumenty"
+              }
+            ]
+          },
+          {
+            "name": "Проектирование объекта",
+            "url": "https://kwork.ru/categories/engineering/proektirovanie-i-obustroystvo",
+            "views": [
+              {
+                "name": "Дизайн и проектирование дома",
+                "url": "https://kwork.ru/categories/engineering/proektirovanie-i-obustroystvo-dizayn-i-proektirovanie-doma"
+              },
+              {
+                "name": "Перепланировка",
+                "url": "https://kwork.ru/categories/engineering/proektirovanie-i-obustroystvo-pereplanirovka"
+              },
+              {
+                "name": "Ограды и ворота",
+                "url": "https://kwork.ru/categories/engineering/proektirovanie-i-obustroystvo-ogrady-i-vorota"
+              },
+              {
+                "name": "Бассейны, беседки и прочее",
+                "url": "https://kwork.ru/categories/engineering/proektirovanie-i-obustroystvo-basseyny-besedki-i-prochee"
+              },
+              {
+                "name": "Проектирование участков",
+                "url": "https://kwork.ru/categories/engineering/proektirovanie-i-obustroystvo-proektirovanie-uchastkov"
+              }
+            ]
+          },
+          {
+            "name": "Машиностроение",
+            "url": "https://kwork.ru/categories/engineering/mashinostroenie",
+            "views": [
+              {
+                "name": "Смета",
+                "url": "https://kwork.ru/categories/engineering/mashinostroenie-smeta"
+              },
+              {
+                "name": "Чертеж, схема",
+                "url": "https://kwork.ru/categories/engineering/mashinostroenie-chertezh-skhema"
+              },
+              {
+                "name": "Проектирование",
+                "url": "https://kwork.ru/categories/engineering/mashinostroenie-proektirovanie"
+              }
+            ]
+          },
+          {
+            "name": "Предметы и аксессуары",
+            "url": "https://kwork.ru/categories/engineering/predmety-i-aksessuary",
+            "views": []
+          }
+        ]
+      },
+      {
+        "name": "Обучение и консалтинг",
+        "url": "https://kwork.ru/categories/training-consulting",
+        "types": [
+          {
+            "name": "Консалтинг",
+            "url": "https://kwork.ru/categories/training-consulting/konsalting",
+            "views": [
+              {
+                "name": "Продвижение и реклама",
+                "url": "https://kwork.ru/categories/training-consulting/konsalting-prodvizhenie-i-reklama"
+              },
+              {
+                "name": "Сервисы Google и Яндекс",
+                "url": "https://kwork.ru/categories/training-consulting/konsalting-servisy-google-i-yandeks"
+              },
+              {
+                "name": "Другое",
+                "url": "https://kwork.ru/categories/training-consulting/konsalting-drugoe"
+              }
+            ]
+          },
+          {
+            "name": "Онлайн курсы",
+            "url": "https://kwork.ru/categories/training-consulting/obuchayushchie-materialy",
+            "views": [
+              {
+                "name": "Создание и методология",
+                "url": "https://kwork.ru/categories/training-consulting/onlayn-kursy-sozdanie-i-metodologiya"
+              },
+              {
+                "name": "Продюсирование и продвижение",
+                "url": "https://kwork.ru/categories/training-consulting/obuchayushchie-materialy-i-kursy-razrabotka-i-provedenie"
+              }
+            ]
+          },
+          {
+            "name": "Оформление по ГОСТу",
+            "url": "https://kwork.ru/categories/training-consulting/oformlenie-materialov-po-gostu",
+            "views": []
+          },
+          {
+            "name": "Репетиторы",
+            "url": "https://kwork.ru/categories/training-consulting/repetitory",
+            "views": [
+              {
+                "name": "Гуманитарные науки",
+                "url": "https://kwork.ru/categories/training-consulting/repetitory-gumanitarnie-nauki"
+              },
+              {
+                "name": "Технические науки",
+                "url": "https://kwork.ru/categories/training-consulting/repetitory-tekhnicheskie-nauki"
+              },
+              {
+                "name": "Естественные науки",
+                "url": "https://kwork.ru/categories/training-consulting/repetitory-estestvennie-nauki"
+              },
+              {
+                "name": "Искусство и творчество",
+                "url": "https://kwork.ru/categories/training-consulting/repetitory-iskusstvo-i-tvorchestvo"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "top": "Тексты и переводы",
+    "url": "https://kwork.ru/categories/writing-translations",
+    "subs": [
+      {
+        "name": "Тексты и наполнение сайта",
+        "url": "https://kwork.ru/categories/creative-writing",
+        "types": [
+          {
+            "name": "Статьи",
+            "url": "https://kwork.ru/categories/creative-writing/stati",
+            "views": [
+              {
+                "name": "Копирайтинг",
+                "url": "https://kwork.ru/categories/creative-writing/stati-kopirayting"
+              },
+              {
+                "name": "Рерайтинг",
+                "url": "https://kwork.ru/categories/creative-writing/stati-rerayting"
+              },
+              {
+                "name": "Аналитика и исследование",
+                "url": "https://kwork.ru/categories/creative-writing/stati-analitika-issledovanie"
+              },
+              {
+                "name": "Продажа готовых статей",
+                "url": "https://kwork.ru/categories/creative-writing/stati-prodazha-gotovykh-statey"
+              },
+              {
+                "name": "Размещение готовых статей",
+                "url": "https://kwork.ru/categories/creative-writing/stati-razmeshchenie-gotovykh-statey"
+              }
+            ]
+          },
+          {
+            "name": "SEO-тексты",
+            "url": "https://kwork.ru/categories/creative-writing/seo-teksty",
+            "views": []
+          },
+          {
+            "name": "Карточки товаров",
+            "url": "https://kwork.ru/categories/creative-writing/kartochki-tovarov",
+            "views": [
+              {
+                "name": "Описание товаров",
+                "url": "https://kwork.ru/categories/creative-writing/kartochki-tovarov-opisanie-tovarov"
+              },
+              {
+                "name": "Размещение готовых товаров",
+                "url": "https://kwork.ru/categories/creative-writing/kartochki-tovarov-razmeshchenie-gotovykh-tovarov"
+              }
+            ]
+          },
+          {
+            "name": "Комментарии",
+            "url": "https://kwork.ru/categories/creative-writing/kommentarii",
+            "views": []
+          },
+          {
+            "name": "Художественные тексты",
+            "url": "https://kwork.ru/categories/creative-writing/khudozhestvennie-teksty",
+            "views": [
+              {
+                "name": "Стихи",
+                "url": "https://kwork.ru/categories/creative-writing/khudozhestvennie-teksty-stikhi"
+              },
+              {
+                "name": "Рассказы и сказки",
+                "url": "https://kwork.ru/categories/creative-writing/khudozhestvennie-teksty-rasskazy-skazki"
+              },
+              {
+                "name": "Книги",
+                "url": "https://kwork.ru/categories/creative-writing/khudozhestvennie-teksty-knigi"
+              }
+            ]
+          },
+          {
+            "name": "Сценарии",
+            "url": "https://kwork.ru/categories/creative-writing/stsenarii",
+            "views": [
+              {
+                "name": "Сценарий роликов и рекламы",
+                "url": "https://kwork.ru/categories/creative-writing/dlya-rolika"
+              },
+              {
+                "name": "Сценарий мероприятий",
+                "url": "https://kwork.ru/categories/creative-writing/dlya-meropriyatiya"
+              },
+              {
+                "name": "Сценарий компьютерных игр",
+                "url": "https://kwork.ru/categories/creative-writing/stsenarii-kompyuternykh-igry"
+              }
+            ]
+          },
+          {
+            "name": "Корректура",
+            "url": "https://kwork.ru/categories/creative-writing/korrektura",
+            "views": [
+              {
+                "name": "Вычитка и исправление",
+                "url": "https://kwork.ru/categories/creative-writing/korrektura-vychitka-i-ispravlenie"
+              },
+              {
+                "name": "Оформление",
+                "url": "https://kwork.ru/categories/creative-writing/korrektura-oformlenie"
+              },
+              {
+                "name": "Конвертация",
+                "url": "https://kwork.ru/categories/creative-writing/korrektura-konvertatsiya"
+              },
+              {
+                "name": "Проверка на уникальность",
+                "url": "https://kwork.ru/categories/creative-writing/korrektura-proverka-na-unikalnost"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Продающие и бизнес-тексты",
+        "url": "https://kwork.ru/categories/business-copywriting",
+        "types": [
+          {
+            "name": "Продающие тексты",
+            "url": "https://kwork.ru/categories/business-copywriting/prodayushchie-teksty",
+            "views": []
+          },
+          {
+            "name": "Реклама и email",
+            "url": "https://kwork.ru/categories/business-copywriting/reklama-i-email",
+            "views": [
+              {
+                "name": "Рекламные тексты",
+                "url": "https://kwork.ru/categories/business-copywriting/reklama-i-email-reklamnie-teksty"
+              },
+              {
+                "name": "Тексты email и смс",
+                "url": "https://kwork.ru/categories/business-copywriting/reklama-i-email-teksty-email-i-sms"
+              }
+            ]
+          },
+          {
+            "name": "Скрипты продаж и выступлений",
+            "url": "https://kwork.ru/categories/business-copywriting/skripty-prodazh-i-vystupleniya",
+            "views": [
+              {
+                "name": "Скрипт продаж",
+                "url": "https://kwork.ru/categories/business-copywriting/skripty-prodazh-i-vystupleniya-skript-prodazh"
+              },
+              {
+                "name": "Текст презентаций и выступлений",
+                "url": "https://kwork.ru/categories/business-copywriting/skripty-prodazh-i-vystupleniya-tekst-prezentatsii-vystupleniya"
+              }
+            ]
+          },
+          {
+            "name": "Коммерческие предложения",
+            "url": "https://kwork.ru/categories/business-copywriting/kommercheskie-predlozheniya",
+            "views": []
+          },
+          {
+            "name": "Посты для соцсетей",
+            "url": "https://kwork.ru/categories/business-copywriting/posty-dlya-sotssetey",
+            "views": [
+              {
+                "name": "Написание постов",
+                "url": "https://kwork.ru/categories/business-copywriting/posty-dlya-sotssetey-napisanie-postov"
+              },
+              {
+                "name": "Контент-план",
+                "url": "https://kwork.ru/categories/business-copywriting/posty-dlya-sotssetey-kontent-plan"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Переводы",
+        "url": "https://kwork.ru/categories/translations",
+        "types": [
+          {
+            "name": "С текста",
+            "url": "https://kwork.ru/categories/translations/s-tekstovogo-dokumenta",
+            "views": []
+          },
+          {
+            "name": "С аудио/видео",
+            "url": "https://kwork.ru/categories/translations/s-audio-video",
+            "views": []
+          },
+          {
+            "name": "С изображения",
+            "url": "https://kwork.ru/categories/translations/s-foto-izobrazheniya",
+            "views": []
+          },
+          {
+            "name": "Переводы устные",
+            "url": "https://kwork.ru/categories/translations/ustniy-onlayn-perevod",
+            "views": []
+          }
+        ]
+      },
+      {
+        "name": "ИИ-тексты",
+        "url": "https://kwork.ru/categories/textgeneration",
+        "types": [
+          {
+            "name": "ИИ-генерация статей",
+            "url": "https://kwork.ru/categories/textgeneration/ii-generatsiya-statey",
+            "views": []
+          },
+          {
+            "name": "ИИ-обработка текстов",
+            "url": "https://kwork.ru/categories/textgeneration/ii-obrabotka-tekstov",
+            "views": []
+          }
+        ]
+      },
+      {
+        "name": "Резюме и вакансии",
+        "url": "https://kwork.ru/categories/resumes-and-letters",
+        "types": [
+          {
+            "name": "Текст вакансии",
+            "url": "https://kwork.ru/categories/resumes-and-letters/vakansii",
+            "views": []
+          },
+          {
+            "name": "Составление резюме",
+            "url": "https://kwork.ru/categories/resumes-and-letters/rezyume",
+            "views": []
+          },
+          {
+            "name": "Сопроводительные письма",
+            "url": "https://kwork.ru/categories/resumes-and-letters/soprovoditelnie-pisma",
+            "views": []
+          }
+        ]
+      },
+      {
+        "name": "Набор текста",
+        "url": "https://kwork.ru/categories/typing",
+        "types": [
+          {
+            "name": "С аудио/видео",
+            "url": "https://kwork.ru/categories/typing/s-audio-video",
+            "views": []
+          },
+          {
+            "name": "С изображений",
+            "url": "https://kwork.ru/categories/typing/s-izobrazheniy",
+            "views": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "top": "Дизайн",
+    "url": "https://kwork.ru/categories/design",
+    "subs": [
+      {
+        "name": "Полиграфия",
+        "url": "https://kwork.ru/categories/graphic-design",
+        "types": [
+          {
+            "name": "Брошюра и буклет",
+            "url": "https://kwork.ru/categories/graphic-design/broshyura-buklet",
+            "views": [
+              {
+                "name": "Уникальный",
+                "url": "https://kwork.ru/categories/graphic-design/broshyura-buklet-unikalniy"
+              },
+              {
+                "name": "На шаблоне",
+                "url": "https://kwork.ru/categories/graphic-design/broshyura-buklet-na-shablone"
+              }
+            ]
+          },
+          {
+            "name": "Листовка и флаер",
+            "url": "https://kwork.ru/categories/graphic-design/listovki-flaer",
+            "views": [
+              {
+                "name": "Уникальный",
+                "url": "https://kwork.ru/categories/graphic-design/listovki-flaer-unikalniy"
+              },
+              {
+                "name": "На шаблоне",
+                "url": "https://kwork.ru/categories/graphic-design/listovki-flaer-na-shablone"
+              }
+            ]
+          },
+          {
+            "name": "Плакат и афиша",
+            "url": "https://kwork.ru/categories/graphic-design/plakat-afisha-poster",
+            "views": []
+          },
+          {
+            "name": "Календарь и открытка",
+            "url": "https://kwork.ru/categories/graphic-design/kalendar-otkrytka",
+            "views": []
+          },
+          {
+            "name": "Каталог, меню, книга",
+            "url": "https://kwork.ru/categories/graphic-design/katalog-menyu-zhurnal",
+            "views": [
+              {
+                "name": "Дизайн",
+                "url": "https://kwork.ru/categories/graphic-design/katalog-menyu-zhurnal-dizayn"
+              },
+              {
+                "name": "Верстка",
+                "url": "https://kwork.ru/categories/graphic-design/katalog-menyu-zhurnal-verstka"
+              }
+            ]
+          },
+          {
+            "name": "Грамота и сертификат",
+            "url": "https://kwork.ru/categories/graphic-design/gramota-sertifikat",
+            "views": []
+          },
+          {
+            "name": "Гайд и чек-лист",
+            "url": "https://kwork.ru/categories/graphic-design/gayd-i-chek-list",
+            "views": []
+          }
+        ]
+      },
+      {
+        "name": "Промышленный дизайн",
+        "url": "https://kwork.ru/categories/packaging",
+        "types": [
+          {
+            "name": "Упаковка и этикетка",
+            "url": "https://kwork.ru/categories/packaging/upakovka-i-etiketka",
+            "views": []
+          },
+          {
+            "name": "Электроника и устройства",
+            "url": "https://kwork.ru/categories/packaging/elektronika-i-ustroystva",
+            "views": []
+          },
+          {
+            "name": "Предметы и аксессуары",
+            "url": "https://kwork.ru/categories/packaging/predmety-i-aksessuary",
+            "views": []
+          }
+        ]
+      },
+      {
+        "name": "Маркетплейсы и соцсети",
+        "url": "https://kwork.ru/categories/e-commerce-social-network",
+        "types": [
+          {
+            "name": "Дизайн в соцсетях",
+            "url": "https://kwork.ru/categories/e-commerce-social-network/dizayn-v-sotssetyakh",
+            "views": [
+              {
+                "name": "ВКонтакте",
+                "url": "https://kwork.ru/categories/e-commerce-social-network/dizayn-v-sotssetyakh-vkontakte"
+              },
+              {
+                "name": "Youtube",
+                "url": "https://kwork.ru/categories/e-commerce-social-network/dizayn-v-sotssetyakh-youtube"
+              },
+              {
+                "name": "Twitch",
+                "url": "https://kwork.ru/categories/e-commerce-social-network/dizayn-v-sotssetyakh-twitch"
+              },
+              {
+                "name": "Telegram",
+                "url": "https://kwork.ru/categories/e-commerce-social-network/dizayn-v-sotssetyakh-telegram"
+              },
+              {
+                "name": "Rutube",
+                "url": "https://kwork.ru/categories/e-commerce-social-network/dizayn-v-sotssetyakh-rutube"
+              },
+              {
+                "name": "Другие",
+                "url": "https://kwork.ru/categories/e-commerce-social-network/dizayn-v-sotssetyakh-drugie"
+              }
+            ]
+          },
+          {
+            "name": "Дизайн для маркетплейсов",
+            "url": "https://kwork.ru/categories/e-commerce-social-network/dizayn-dlya-marketpleysov",
+            "views": [
+              {
+                "name": "Ozon",
+                "url": "https://kwork.ru/categories/e-commerce-social-network/dizayn-dlya-marketpleysov-ozon"
+              },
+              {
+                "name": "Wildberries",
+                "url": "https://kwork.ru/categories/e-commerce-social-network/dizayn-dlya-marketpleysov-wildberries"
+              },
+              {
+                "name": "Яндекс Маркет",
+                "url": "https://kwork.ru/categories/e-commerce-social-network/dizayn-dlya-marketpleysov-yandeks-market"
+              },
+              {
+                "name": "Авито",
+                "url": "https://kwork.ru/categories/e-commerce-social-network/dizayn-dlya-marketpleysov-avito"
+              },
+              {
+                "name": "Другие",
+                "url": "https://kwork.ru/categories/e-commerce-social-network/dizayn-dlya-marketpleysov-drugie"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Арт и иллюстрации",
+        "url": "https://kwork.ru/categories/illustrations",
+        "types": [
+          {
+            "name": "Иллюстрации и рисунки",
+            "url": "https://kwork.ru/categories/illustrations/illyustratsii-i-risunki",
+            "views": [
+              {
+                "name": "Объекты и персонажи",
+                "url": "https://kwork.ru/categories/illustrations/illyustratsii-i-risunki-obekty-i-personazhi"
+              },
+              {
+                "name": "Пейзажи и сцены",
+                "url": "https://kwork.ru/categories/illustrations/illyustratsii-i-risunki-peyzazhi-i-lokatsii"
+              },
+              {
+                "name": "Комиксы и раскадровка",
+                "url": "https://kwork.ru/categories/illustrations/illyustratsii-i-risunki-stseny-i-sobytiya"
+              },
+              {
+                "name": "Картины и иллюстрации",
+                "url": "https://kwork.ru/categories/illustrations/illyustratsii-i-risunki-kartiny-i-illyustratsii"
+              }
+            ]
+          },
+          {
+            "name": "Портрет, шарж, карикатура",
+            "url": "https://kwork.ru/categories/illustrations/portret-sharzh-karikatura",
+            "views": [
+              {
+                "name": "Портрет",
+                "url": "https://kwork.ru/categories/illustrations/portret-sharzh-karikatura-portret"
+              },
+              {
+                "name": "Шарж и карикатура",
+                "url": "https://kwork.ru/categories/illustrations/portret-sharzh-karikatura-sharzh-karikatura"
+              }
+            ]
+          },
+          {
+            "name": "Дизайн игр",
+            "url": "https://kwork.ru/categories/illustrations/dizayn-igr",
+            "views": [
+              {
+                "name": "Персонажи и объекты",
+                "url": "https://kwork.ru/categories/illustrations/dizayn-igr-personazhi-i-obekty"
+              },
+              {
+                "name": "Интерфейсы",
+                "url": "https://kwork.ru/categories/illustrations/dizayn-igr-interfeysy"
+              },
+              {
+                "name": "Карты и локации",
+                "url": "https://kwork.ru/categories/illustrations/dizayn-igr-karty-i-lokatsii"
+              },
+              {
+                "name": "Дизайн игры целиком",
+                "url": "https://kwork.ru/categories/illustrations/dizayn-igr-dizayn-igry-tselikom"
+              },
+              {
+                "name": "Стриминг и Twitch",
+                "url": "https://kwork.ru/categories/illustrations/dizayn-igr-striming-i-twitch"
+              }
+            ]
+          },
+          {
+            "name": "Тату, принты",
+            "url": "https://kwork.ru/categories/illustrations/tatu-dizayn",
+            "views": [
+              {
+                "name": "Тату-дизайн",
+                "url": "https://kwork.ru/categories/illustrations/tatu-dizayn-tatu-dizayn"
+              },
+              {
+                "name": "Принты на одежду",
+                "url": "https://kwork.ru/categories/illustrations/tatu-dizayn-printy-na-odezhdu"
+              }
+            ]
+          },
+          {
+            "name": "Стикеры",
+            "url": "https://kwork.ru/categories/illustrations/stikery",
+            "views": []
+          },
+          {
+            "name": "NFT арт",
+            "url": "https://kwork.ru/categories/illustrations/nft-art",
+            "views": []
+          },
+          {
+            "name": "Готовые шаблоны и рисунки",
+            "url": "https://kwork.ru/categories/illustrations/gotovie-shablony-i-risunki",
+            "views": [
+              {
+                "name": "Картинки",
+                "url": "https://kwork.ru/categories/illustrations/gotovie-shablony-i-risunki-kartinki"
+              },
+              {
+                "name": "Темы и шаблоны Wordpress",
+                "url": "https://kwork.ru/categories/illustrations/gotovie-shablony-i-risunki-temy-i-shablony-wordpress"
+              },
+              {
+                "name": "Шаблоны другие",
+                "url": "https://kwork.ru/categories/illustrations/gotovie-shablony-i-risunki-shablony-drugie"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Презентации и инфографика",
+        "url": "https://kwork.ru/categories/presentations-infographics",
+        "types": [
+          {
+            "name": "Презентации",
+            "url": "https://kwork.ru/categories/presentations-infographics/prezentatsii",
+            "views": [
+              {
+                "name": "Уникальная",
+                "url": "https://kwork.ru/categories/presentations-infographics/prezentatsii-unikalnaya"
+              },
+              {
+                "name": "На шаблоне",
+                "url": "https://kwork.ru/categories/presentations-infographics/prezentatsii-na-shablone"
+              }
+            ]
+          },
+          {
+            "name": "Инфографика",
+            "url": "https://kwork.ru/categories/presentations-infographics/infografika",
+            "views": [
+              {
+                "name": "Уникальная",
+                "url": "https://kwork.ru/categories/presentations-infographics/infografika-unikalnaya"
+              },
+              {
+                "name": "На шаблоне",
+                "url": "https://kwork.ru/categories/presentations-infographics/infografika-na-shablone"
+              }
+            ]
+          },
+          {
+            "name": "Карта и схема",
+            "url": "https://kwork.ru/categories/presentations-infographics/karta-skhema",
+            "views": []
+          }
+        ]
+      },
+      {
+        "name": "Логотип и брендинг",
+        "url": "https://kwork.ru/categories/logo",
+        "types": [
+          {
+            "name": "Логотипы",
+            "url": "https://kwork.ru/categories/logo/logotipy",
+            "views": [
+              {
+                "name": "Новый логотип",
+                "url": "https://kwork.ru/categories/logo/logotipy-noviy-logotip"
+              },
+              {
+                "name": "Доработка лого",
+                "url": "https://kwork.ru/categories/logo/logotipy-dorabotka-logo"
+              }
+            ]
+          },
+          {
+            "name": "Фирменный стиль",
+            "url": "https://kwork.ru/categories/logo/firmenniy-stil",
+            "views": [
+              {
+                "name": "Фирменные бланки",
+                "url": "https://kwork.ru/categories/logo/firmenniy-stil-firmennie-blanki"
+              },
+              {
+                "name": "Брендинг",
+                "url": "https://kwork.ru/categories/logo/firmenniy-stil-brending"
+              },
+              {
+                "name": "Печати и штампы",
+                "url": "https://kwork.ru/categories/logo/firmenniy-stil-pechati-i-shtampy"
+              },
+              {
+                "name": "Коммерч. предложение",
+                "url": "https://kwork.ru/categories/logo/firmenniy-stil-kommerch-predlozhenie"
+              }
+            ]
+          },
+          {
+            "name": "Визитки",
+            "url": "https://kwork.ru/categories/logo/vizitki",
+            "views": [
+              {
+                "name": "Создание новых",
+                "url": "https://kwork.ru/categories/logo/vizitki-sozdanie-novykh"
+              },
+              {
+                "name": "Готовые шаблоны и макеты",
+                "url": "https://kwork.ru/categories/logo/vizitki-gotovie-shablony-i-makety"
+              }
+            ]
+          },
+          {
+            "name": "Брендирование и сувенирка",
+            "url": "https://kwork.ru/categories/logo/brendirovanie-i-suvenirka",
+            "views": [
+              {
+                "name": "Брендирование авто",
+                "url": "https://kwork.ru/categories/logo/brendirovanie-i-suvenirka-brendirovanie-avto"
+              },
+              {
+                "name": "Сувениры",
+                "url": "https://kwork.ru/categories/logo/brendirovanie-i-suvenirka-suveniry"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "ИИ-генерация изображений",
+        "url": "https://kwork.ru/categories/imagegeneration",
+        "types": [
+          {
+            "name": "Нейрофотосессия",
+            "url": "https://kwork.ru/categories/imagegeneration/neyrofotosessiya",
+            "views": []
+          },
+          {
+            "name": "ИИ-аватары и портреты",
+            "url": "https://kwork.ru/categories/imagegeneration/ii-avatary-i-portrety",
+            "views": []
+          },
+          {
+            "name": "ИИ-иллюстрации и концепт-арт",
+            "url": "https://kwork.ru/categories/imagegeneration/ii-illyustratsii-i-kontsept-art",
+            "views": []
+          },
+          {
+            "name": "ИИ-логотипы и инфографика",
+            "url": "https://kwork.ru/categories/imagegeneration/ii-logotipy-i-infografika",
+            "views": []
+          }
+        ]
+      },
+      {
+        "name": "Обработка и редактирование",
+        "url": "https://kwork.ru/categories/vector-tracing",
+        "types": [
+          {
+            "name": "Отрисовка в векторе",
+            "url": "https://kwork.ru/categories/vector-tracing/otrisovka-v-vektore",
+            "views": []
+          },
+          {
+            "name": "3D-графика",
+            "url": "https://kwork.ru/categories/vector-tracing/3d-grafika",
+            "views": [
+              {
+                "name": "3D объект",
+                "url": "https://kwork.ru/categories/vector-tracing/3d-grafika-3d-obekt"
+              },
+              {
+                "name": "3D визуализация",
+                "url": "https://kwork.ru/categories/vector-tracing/3d-grafika-3d-vizualizatsiya"
+              }
+            ]
+          },
+          {
+            "name": "Фотомонтаж и обработка",
+            "url": "https://kwork.ru/categories/vector-tracing/fotomontazh-i-obrabotka",
+            "views": [
+              {
+                "name": "Обработка",
+                "url": "https://kwork.ru/categories/vector-tracing/fotomontazh-i-obrabotka-obrabotka"
+              },
+              {
+                "name": "Изменение фона",
+                "url": "https://kwork.ru/categories/vector-tracing/fotomontazh-i-obrabotka-izmenenie-fona"
+              },
+              {
+                "name": "Реставрация",
+                "url": "https://kwork.ru/categories/vector-tracing/fotomontazh-i-obrabotka-restavratsiya"
+              },
+              {
+                "name": "Создание коллажа",
+                "url": "https://kwork.ru/categories/vector-tracing/fotomontazh-i-obrabotka-sozdanie-kollazha"
+              },
+              {
+                "name": "Водяные знаки",
+                "url": "https://kwork.ru/categories/vector-tracing/fotomontazh-i-obrabotka-vodyanie-znaki"
+              },
+              {
+                "name": "Изменение размера",
+                "url": "https://kwork.ru/categories/vector-tracing/fotomontazh-i-obrabotka-izmenenie-razmera"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Интерьер и экстерьер",
+        "url": "https://kwork.ru/categories/interior-exterior-design",
+        "types": [
+          {
+            "name": "Интерьер",
+            "url": "https://kwork.ru/categories/interior-exterior-design/interer",
+            "views": [
+              {
+                "name": "Дизайн",
+                "url": "https://kwork.ru/categories/interior-exterior-design/interer-dizayn"
+              },
+              {
+                "name": "Визуализация",
+                "url": "https://kwork.ru/categories/interior-exterior-design/interer-vizualizatsiya"
+              }
+            ]
+          },
+          {
+            "name": "Дизайн домов и сооружений",
+            "url": "https://kwork.ru/categories/interior-exterior-design/dizayn-zdaniy-i-sooruzheniy",
+            "views": [
+              {
+                "name": "Дизайн",
+                "url": "https://kwork.ru/categories/interior-exterior-design/dizayn-zdaniy-i-sooruzheniy-dizayn"
+              },
+              {
+                "name": "Визуализация",
+                "url": "https://kwork.ru/categories/interior-exterior-design/dizayn-zdaniy-i-sooruzheniy-vizualizatsiya"
+              }
+            ]
+          },
+          {
+            "name": "Ландшафтный дизайн",
+            "url": "https://kwork.ru/categories/interior-exterior-design/landshaftniy-dizayn",
+            "views": [
+              {
+                "name": "Дизайн",
+                "url": "https://kwork.ru/categories/interior-exterior-design/landshaftniy-dizayn-dizayn"
+              },
+              {
+                "name": "Визуализация",
+                "url": "https://kwork.ru/categories/interior-exterior-design/landshaftniy-dizayn-vizualizatsiya"
+              }
+            ]
+          },
+          {
+            "name": "Дизайн мебели",
+            "url": "https://kwork.ru/categories/interior-exterior-design/dizayn-mebeli",
+            "views": [
+              {
+                "name": "Дизайн",
+                "url": "https://kwork.ru/categories/interior-exterior-design/dizayn-mebeli-dizayn"
+              },
+              {
+                "name": "Визуализация",
+                "url": "https://kwork.ru/categories/interior-exterior-design/dizayn-mebeli-vizualizatsiya"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Веб и мобильный дизайн",
+        "url": "https://kwork.ru/categories/web-plus-mobile-design",
+        "types": [
+          {
+            "name": "Веб-дизайн",
+            "url": "https://kwork.ru/categories/web-plus-mobile-design/veb-dizayn",
+            "views": [
+              {
+                "name": "Сайт целиком",
+                "url": "https://kwork.ru/categories/web-plus-mobile-design/veb-dizayn-sayt-tselikom"
+              },
+              {
+                "name": "Страница",
+                "url": "https://kwork.ru/categories/web-plus-mobile-design/veb-dizayn-stranitsa"
+              },
+              {
+                "name": "Лендинг",
+                "url": "https://kwork.ru/categories/web-plus-mobile-design/veb-dizayn-lending"
+              },
+              {
+                "name": "Элемент сайта",
+                "url": "https://kwork.ru/categories/web-plus-mobile-design/veb-dizayn-element-sayta"
+              },
+              {
+                "name": "Шапка",
+                "url": "https://kwork.ru/categories/web-plus-mobile-design/veb-dizayn-shapka"
+              }
+            ]
+          },
+          {
+            "name": "Мобильный дизайн",
+            "url": "https://kwork.ru/categories/web-plus-mobile-design/mobilniy-dizayn",
+            "views": [
+              {
+                "name": "Приложения",
+                "url": "https://kwork.ru/categories/web-plus-mobile-design/mobilniy-dizayn-prilozheniya"
+              },
+              {
+                "name": "Моб. версия сайта",
+                "url": "https://kwork.ru/categories/web-plus-mobile-design/mobilniy-dizayn-mob-versiya-sayta"
+              }
+            ]
+          },
+          {
+            "name": "Email-дизайн",
+            "url": "https://kwork.ru/categories/web-plus-mobile-design/email-dizayn",
+            "views": [
+              {
+                "name": "Уникальный",
+                "url": "https://kwork.ru/categories/web-plus-mobile-design/email-dizayn-unikalniy"
+              },
+              {
+                "name": "На шаблоне",
+                "url": "https://kwork.ru/categories/web-plus-mobile-design/email-dizayn-na-shablone"
+              }
+            ]
+          },
+          {
+            "name": "Баннеры и иконки",
+            "url": "https://kwork.ru/categories/web-plus-mobile-design/bannery-i-ikonki",
+            "views": [
+              {
+                "name": "Статичный баннер",
+                "url": "https://kwork.ru/categories/web-plus-mobile-design/bannery-i-ikonki-statichniy-banner"
+              },
+              {
+                "name": "Анимированный баннер",
+                "url": "https://kwork.ru/categories/web-plus-mobile-design/bannery-i-ikonki-animirovanniy-banner"
+              },
+              {
+                "name": "Иконки и фавиконы",
+                "url": "https://kwork.ru/categories/web-plus-mobile-design/bannery-i-ikonki-ikonki-i-favikony"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Наружная реклама",
+        "url": "https://kwork.ru/categories/outdoor-advertising",
+        "types": [
+          {
+            "name": "Билборды и стенды",
+            "url": "https://kwork.ru/categories/outdoor-advertising/bilbordy-i-stendy",
+            "views": []
+          },
+          {
+            "name": "Витрины и вывески",
+            "url": "https://kwork.ru/categories/outdoor-advertising/vitriny-i-vyveski",
+            "views": []
+          }
+        ]
+      }
+    ]
+  }
+]
