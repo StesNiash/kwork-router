@@ -20,7 +20,7 @@
     </nav>
 
     <div class="hero-body" id="top">
-      <p class="eyebrow">Индекс услуг · обновлено 29.10.2026</p>
+      <p class="eyebrow">Индекс услуг · обновлено 30.10.2026</p>
       <h1>Автоматизация без лишней обвязки</h1>
       <p class="lead">
         Парсеры, Telegram-боты, Google Sheets, API-синхронизация и AI-ассистенты.
@@ -31,9 +31,9 @@
         <a class="button button-ghost" href="#how">Как устроена работа</a>
       </div>
       <dl class="stats" aria-label="Статус каталога">
-        <div><dt>Направлений</dt><dd>8</dd></div>
-        <div><dt>Готовых демо</dt><dd>1</dd></div>
-        <div><dt>Формат</dt><dd>фикс + демо</dd></div>
+        <div><dt>Направлений</dt><dd id="stat-total">8</dd></div>
+        <div><dt>Готовых демо</dt><dd id="stat-ready">5</dd></div>
+        <div><dt>Опубликовано</dt><dd id="stat-active">1</dd></div>
       </dl>
     </div>
   </header>
@@ -47,141 +47,14 @@
         </div>
         <div class="filters" role="group" aria-label="Фильтр услуг">
           <button class="filter is-active" type="button" data-filter="all">Все</button>
-          <button class="filter" type="button" data-filter="active">Готово</button>
+          <button class="filter" type="button" data-filter="ready">Готово</button>
           <button class="filter" type="button" data-filter="planned">В работе</button>
         </div>
       </div>
 
-      <div class="grid" id="service-grid">
-        <article class="card card-gold" data-status="active">
-          <div class="card-top">
-            <span class="number">01</span>
-            <span class="chip chip-active">демо готово</span>
-          </div>
-          <h3>Hermes Agent на VPS</h3>
-          <p>Установка, первичная настройка, Telegram и автозапуск на чистом Ubuntu VPS.</p>
-          <ul>
-            <li>Docker Compose + <code>.env</code></li>
-            <li>healthcheck и логи</li>
-            <li>backup и uninstall</li>
-          </ul>
-          <div class="card-meta"><span>1 день</span><strong>от 2 500 ₽</strong></div>
-          <a class="card-link" href="https://github.com/StesNiash/kwork-hermes-vps">Открыть репозиторий</a>
-        </article>
-
-        <article class="card card-blue" data-status="planned">
-          <div class="card-top">
-            <span class="number">02</span>
-            <span class="chip">в работе</span>
-          </div>
-          <h3>Парсер сайта → CSV / Excel</h3>
-          <p>Сбор карточек, цен и характеристик с пагинацией, выгрузка в таблицу.</p>
-          <ul>
-            <li>селекторы и пагинация</li>
-            <li>CSV / XLSX</li>
-            <li>отчёт об ошибках</li>
-          </ul>
-          <div class="card-meta"><span>1–2 дня</span><strong>от 1 500 ₽</strong></div>
-          <span class="card-link is-muted">Скоро</span>
-        </article>
-
-        <article class="card card-blue" data-status="planned">
-          <div class="card-top">
-            <span class="number">03</span>
-            <span class="chip">в работе</span>
-          </div>
-          <h3>Telegram-бот для заявок</h3>
-          <p>Заявки из Telegram в Google Sheets или CRM, без ручного переноса.</p>
-          <ul>
-            <li>меню и FAQ</li>
-            <li>валидация полей</li>
-            <li>уведомления владельцу</li>
-          </ul>
-          <div class="card-meta"><span>1–2 дня</span><strong>от 2 500 ₽</strong></div>
-          <span class="card-link is-muted">Скоро</span>
-        </article>
-
-        <article class="card card-blue" data-status="planned">
-          <div class="card-top">
-            <span class="number">04</span>
-            <span class="chip">в работе</span>
-          </div>
-          <h3>Автоматизация Google Sheets</h3>
-          <p>Отчёты, уведомления и Apps Script вместо ручных действий в таблице.</p>
-          <ul>
-            <li>сводные отчёты</li>
-            <li>триггеры</li>
-            <li>инструкция для владельца</li>
-          </ul>
-          <div class="card-meta"><span>1 день</span><strong>от 500 ₽</strong></div>
-          <span class="card-link is-muted">Скоро</span>
-        </article>
-
-        <article class="card card-blue" data-status="planned">
-          <div class="card-top">
-            <span class="number">05</span>
-            <span class="chip">в работе</span>
-          </div>
-          <h3>Python-скрипты для рутины</h3>
-          <p>Небольшие утилиты: файлы, отчёты, переименование, конвертация.</p>
-          <ul>
-            <li>CLI и <code>--help</code></li>
-            <li>тесты</li>
-            <li>пример данных</li>
-          </ul>
-          <div class="card-meta"><span>1 день</span><strong>от 1 000 ₽</strong></div>
-          <span class="card-link is-muted">Скоро</span>
-        </article>
-
-        <article class="card card-violet" data-status="planned">
-          <div class="card-top">
-            <span class="number">07</span>
-            <span class="chip">в работе</span>
-          </div>
-          <h3>Мониторинг цен и наличия</h3>
-          <p>Проверка страниц по расписанию и уведомление в Telegram при изменении.</p>
-          <ul>
-            <li>расписание</li>
-            <li>история изменений</li>
-            <li>антидубли</li>
-          </ul>
-          <div class="card-meta"><span>1–2 дня</span><strong>от 2 000 ₽</strong></div>
-          <span class="card-link is-muted">Скоро</span>
-        </article>
-
-        <article class="card card-violet" data-status="planned">
-          <div class="card-top">
-            <span class="number">11</span>
-            <span class="chip">в работе</span>
-          </div>
-          <h3>API-интеграция с таблицами</h3>
-          <p>Синхронизация Google Sheets / CRM с внешним API по расписанию.</p>
-          <ul>
-            <li>идемпотентность</li>
-            <li>retry и логи</li>
-            <li>маппинг полей</li>
-          </ul>
-          <div class="card-meta"><span>1–2 дня</span><strong>от 3 000 ₽</strong></div>
-          <span class="card-link is-muted">Скоро</span>
-        </article>
-
-        <article class="card card-violet" data-status="planned">
-          <div class="card-top">
-            <span class="number">12</span>
-            <span class="chip">в работе</span>
-          </div>
-          <h3>AI-ассистент по документам</h3>
-          <p>Поиск по документам с ответами и ссылками на источники.</p>
-          <ul>
-            <li>загрузка документов</li>
-            <li>цитаты-источники</li>
-            <li>локальный запуск</li>
-          </ul>
-          <div class="card-meta"><span>2 дня</span><strong>от 5 000 ₽</strong></div>
-          <span class="card-link is-muted">Скоро</span>
-        </article>
-      </div>
+      <div class="grid" id="service-grid" aria-live="polite"></div>
       <p class="empty" id="empty" hidden>В этой категории пока нет карточек.</p>
+      <p class="empty" id="load-error" hidden>Не удалось загрузить каталог. Откройте сайт через локальный сервер.</p>
     </section>
 
     <section class="section section-split" id="how" aria-labelledby="how-title">

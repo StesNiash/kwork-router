@@ -19,14 +19,16 @@
         "проверка на чистом VPS"
       ],
       "demo": "Установщик и чек-лист приёмки",
-      "tone": "gold"
+      "tone": "gold",
+      "card": "cards/01-hermes-vps.md",
+      "repo_url": "https://github.com/StesNiash/kwork-hermes-vps"
     },
     {
       "id": "parser",
       "number": 2,
       "title": "Парсер сайта → CSV / Excel",
       "repo": "kwork-parser",
-      "status": "planned",
+      "status": "ready",
       "wave": 1,
       "price_from": 1500,
       "term": "1–2 дня",
@@ -38,14 +40,16 @@
         "понятный отчёт об ошибках"
       ],
       "demo": "Готовый репозиторий: CSV/XLSX-демо",
-      "tone": "blue"
+      "tone": "blue",
+      "card": "cards/02-parser.md",
+      "repo_url": "https://github.com/StesNiash/kwork-parser"
     },
     {
       "id": "tg-bot",
       "number": 3,
       "title": "Telegram-бот для заявок",
       "repo": "kwork-tg-bot",
-      "status": "planned",
+      "status": "ready",
       "wave": 1,
       "price_from": 2500,
       "term": "1–2 дня",
@@ -57,14 +61,16 @@
         "уведомления владельцу"
       ],
       "demo": "Готовый репозиторий: диалог + SQLite",
-      "tone": "blue"
+      "tone": "blue",
+      "card": "cards/03-tg-bot.md",
+      "repo_url": "https://github.com/StesNiash/kwork-tg-bot"
     },
     {
       "id": "sheets",
       "number": 4,
       "title": "Автоматизация Google Sheets",
       "repo": "kwork-sheets",
-      "status": "planned",
+      "status": "ready",
       "wave": 1,
       "price_from": 500,
       "term": "1 день",
@@ -76,14 +82,16 @@
         "инструкция для владельца"
       ],
       "demo": "Готовый репозиторий: Apps Script + mock",
-      "tone": "blue"
+      "tone": "blue",
+      "card": "cards/04-sheets.md",
+      "repo_url": "https://github.com/StesNiash/kwork-sheets"
     },
     {
       "id": "python-scripts",
       "number": 5,
       "title": "Python-скрипты для рутины",
       "repo": "kwork-python-scripts",
-      "status": "planned",
+      "status": "ready",
       "wave": 1,
       "price_from": 1000,
       "term": "1 день",
@@ -95,7 +103,9 @@
         "запуск по инструкции"
       ],
       "demo": "Готовый репозиторий: 3 утилиты",
-      "tone": "blue"
+      "tone": "blue",
+      "card": "cards/05-python-scripts.md",
+      "repo_url": "https://github.com/StesNiash/kwork-python-scripts"
     },
     {
       "id": "monitor",
@@ -114,7 +124,9 @@
         "Telegram-уведомления"
       ],
       "demo": "Демо с тремя товарами",
-      "tone": "violet"
+      "tone": "violet",
+      "card": "",
+      "repo_url": ""
     },
     {
       "id": "api-sync",
@@ -133,7 +145,9 @@
         "тестовый контур"
       ],
       "demo": "Мок-API + таблица",
-      "tone": "violet"
+      "tone": "violet",
+      "card": "",
+      "repo_url": ""
     },
     {
       "id": "ai-rag",
@@ -152,7 +166,9 @@
         "локальный запуск"
       ],
       "demo": "Корпус из 10 документов",
-      "tone": "violet"
+      "tone": "violet",
+      "card": "",
+      "repo_url": ""
     }
   ]
 }

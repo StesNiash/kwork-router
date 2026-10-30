@@ -10,16 +10,18 @@ class CatalogTests(unittest.TestCase):
     def setUp(self):
         self.data = json.loads((ROOT / "data" / "services.json").read_text(encoding="utf-8"))
         self.html = (ROOT / "index.html").read_text(encoding="utf-8")
+        self.app = (ROOT / "app.js").read_text(encoding="utf-8")
         self.families = self.data["families"]
 
     def test_families_have_required_fields(self):
         required = {
             "id", "number", "title", "repo", "status", "wave",
             "price_from", "term", "summary", "bullets", "demo", "tone",
+            "card", "repo_url",
         }
         for item in self.families:
-            self.assertEqual(required, set(item), item.get("id"))
-            self.assertIn(item["status"], {"active", "planned"})
+            self.assertTrue(required.issubset(set(item)), item.get("id"))
+            self.assertIn(item["status"], {"active", "ready", "planned"})
             self.assertGreater(item["price_from"], 0)
             self.assertGreaterEqual(len(item["bullets"]), 3)
 
@@ -29,10 +31,21 @@ class CatalogTests(unittest.TestCase):
         self.assertEqual(len(ids), len(set(ids)))
         self.assertEqual(len(numbers), len(set(numbers)))
 
-    def test_every_family_has_a_card(self):
+    def test_catalog_is_data_driven(self):
+        self.assertIn('id="service-grid"', self.html)
+        self.assertIn('fetch("data/services.json"', self.app)
         for item in self.families:
-            self.assertIn(f"<h3>{item['title']}</h3>", self.html, item["id"])
-        self.assertEqual(self.html.count('class="card '), len(self.families))
+            if item["card"]:
+                self.assertTrue((ROOT / item["card"]).is_file(), item["id"])
+            if item["repo_url"]:
+                self.assertTrue(item["repo_url"].startswith("https://github.com/"), item["id"])
+
+    def test_ready_cards_have_demo_and_detail(self):
+        ready = [item for item in self.families if item["status"] in {"active", "ready"}]
+        self.assertEqual(len(ready), 5)
+        for item in ready:
+            self.assertTrue(item["card"], item["id"])
+            self.assertTrue(item["repo_url"], item["id"])
 
     def test_active_family_is_only_hermes(self):
         active = [item["id"] for item in self.families if item["status"] == "active"]
