@@ -9,8 +9,6 @@ ROOT = Path(__file__).resolve().parents[1]
 class CatalogTests(unittest.TestCase):
     def setUp(self):
         self.data = json.loads((ROOT / "data" / "services.json").read_text(encoding="utf-8"))
-        self.html = (ROOT / "index.html").read_text(encoding="utf-8")
-        self.app = (ROOT / "app.js").read_text(encoding="utf-8")
         self.families = self.data["families"]
 
     def test_families_have_required_fields(self):
@@ -31,25 +29,28 @@ class CatalogTests(unittest.TestCase):
         self.assertEqual(len(ids), len(set(ids)))
         self.assertEqual(len(numbers), len(set(numbers)))
 
-    def test_catalog_is_data_driven(self):
-        self.assertIn('id="service-grid"', self.html)
-        self.assertIn('fetch("data/services.json"', self.app)
-        for item in self.families:
-            if item["card"]:
-                self.assertTrue((ROOT / item["card"]).is_file(), item["id"])
-            if item["repo_url"]:
-                self.assertTrue(item["repo_url"].startswith("https://github.com/"), item["id"])
-
-    def test_ready_cards_have_demo_and_detail(self):
+    def test_ready_cards_have_detail_files_and_demos(self):
         ready = [item for item in self.families if item["status"] in {"active", "ready"}]
         self.assertEqual(len(ready), 5)
         for item in ready:
-            self.assertTrue(item["card"], item["id"])
-            self.assertTrue(item["repo_url"], item["id"])
+            self.assertTrue((ROOT / item["card"]).is_file(), item["id"])
+            self.assertTrue(item["repo_url"].startswith("https://github.com/"), item["id"])
+
+    def test_cards_contain_cover_prompt(self):
+        for item in self.families:
+            if not item["card"]:
+                continue
+            text = (ROOT / item["card"]).read_text(encoding="utf-8")
+            self.assertIn("## Обложка", text, item["id"])
+            self.assertIn("**Промпт для ChatGPT / Gemini:**", text, item["id"])
 
     def test_active_family_is_only_hermes(self):
         active = [item["id"] for item in self.families if item["status"] == "active"]
         self.assertEqual(active, ["hermes-vps"])
+
+    def test_no_web_app_files(self):
+        for name in ("index.html", "app.js", "styles.css"):
+            self.assertFalse((ROOT / name).exists(), name)
 
     def test_no_secret_material(self):
         patterns = [
