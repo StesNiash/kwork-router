@@ -61,6 +61,22 @@ class CatalogTests(unittest.TestCase):
             for heading in required:
                 self.assertIn(heading, text, f"{item['id']}: {heading}")
 
+    def test_custom_view_lists_supported_languages(self):
+        allowed = {"C", "C++", "Go", "PHP", "Ruby", "C#", "Java", "Python", "Swift"}
+        for item in self.families:
+            if not item["card"]:
+                continue
+            text = (ROOT / item["card"]).read_text(encoding="utf-8")
+            view = text.split("## Вид\n\n", 1)[1].split("\n\n## ", 1)[0].strip()
+            if view != "Написание и доработка":
+                self.assertNotIn("## Языки", text, item["id"])
+                continue
+            self.assertIn("## Языки", text, item["id"])
+            block = text.split("## Языки\n\n", 1)[1].split("\n\n## ", 1)[0].strip()
+            languages = {value.strip() for value in block.split(",")}
+            self.assertTrue(languages, item["id"])
+            self.assertTrue(languages.issubset(allowed), f"{item['id']}: {languages}")
+
     def test_additional_options_fit_kwork_limits(self):
         for item in self.families:
             if not item["card"]:
